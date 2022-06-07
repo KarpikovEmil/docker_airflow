@@ -1,0 +1,756 @@
+[2022-05-31 20:04:00,442] {processor.py:163} INFO - Started process (PID=98) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:00,454] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:04:00,458] {logging_mixin.py:109} INFO - [2022-05-31 20:04:00,457] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:00,602] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:00,639] {logging_mixin.py:109} INFO - [2022-05-31 20:04:00,639] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:00,698] {logging_mixin.py:109} INFO - [2022-05-31 20:04:00,698] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:04:00,735] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.310 seconds
+[2022-05-31 20:04:31,052] {processor.py:163} INFO - Started process (PID=136) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:31,054] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:04:31,056] {logging_mixin.py:109} INFO - [2022-05-31 20:04:31,056] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:31,102] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:04:31,116] {logging_mixin.py:109} INFO - [2022-05-31 20:04:31,116] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:31,137] {logging_mixin.py:109} INFO - [2022-05-31 20:04:31,137] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:04:31,150] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.101 seconds
+[2022-05-31 20:05:02,544] {processor.py:163} INFO - Started process (PID=176) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:02,546] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:05:02,547] {logging_mixin.py:109} INFO - [2022-05-31 20:05:02,547] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:02,597] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:02,608] {logging_mixin.py:109} INFO - [2022-05-31 20:05:02,608] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:02,626] {logging_mixin.py:109} INFO - [2022-05-31 20:05:02,626] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:05:02,635] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.094 seconds
+[2022-05-31 20:05:33,500] {processor.py:163} INFO - Started process (PID=215) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:33,506] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:05:33,509] {logging_mixin.py:109} INFO - [2022-05-31 20:05:33,509] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:33,906] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:05:33,935] {logging_mixin.py:109} INFO - [2022-05-31 20:05:33,935] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:33,957] {logging_mixin.py:109} INFO - [2022-05-31 20:05:33,957] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:05:33,974] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.481 seconds
+[2022-05-31 20:06:04,475] {processor.py:163} INFO - Started process (PID=254) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:04,477] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:06:04,481] {logging_mixin.py:109} INFO - [2022-05-31 20:06:04,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:04,528] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:04,542] {logging_mixin.py:109} INFO - [2022-05-31 20:06:04,542] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:04,566] {logging_mixin.py:109} INFO - [2022-05-31 20:06:04,566] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:06:04,588] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.117 seconds
+[2022-05-31 20:06:35,950] {processor.py:163} INFO - Started process (PID=293) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:35,952] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:06:35,956] {logging_mixin.py:109} INFO - [2022-05-31 20:06:35,956] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:36,019] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:06:36,033] {logging_mixin.py:109} INFO - [2022-05-31 20:06:36,033] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:36,058] {logging_mixin.py:109} INFO - [2022-05-31 20:06:36,057] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:06:36,068] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.124 seconds
+[2022-05-31 20:07:07,429] {processor.py:163} INFO - Started process (PID=332) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:07,431] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:07:07,432] {logging_mixin.py:109} INFO - [2022-05-31 20:07:07,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:07,490] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:07,510] {logging_mixin.py:109} INFO - [2022-05-31 20:07:07,510] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:07,533] {logging_mixin.py:109} INFO - [2022-05-31 20:07:07,533] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:07:07,549] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.124 seconds
+[2022-05-31 20:07:38,169] {processor.py:163} INFO - Started process (PID=371) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:38,175] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:07:38,180] {logging_mixin.py:109} INFO - [2022-05-31 20:07:38,179] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:38,247] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:07:38,264] {logging_mixin.py:109} INFO - [2022-05-31 20:07:38,264] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:38,289] {logging_mixin.py:109} INFO - [2022-05-31 20:07:38,289] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:07:38,309] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.146 seconds
+[2022-05-31 20:08:09,385] {processor.py:163} INFO - Started process (PID=410) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:09,387] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:08:09,389] {logging_mixin.py:109} INFO - [2022-05-31 20:08:09,388] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:09,433] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:09,444] {logging_mixin.py:109} INFO - [2022-05-31 20:08:09,444] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:09,469] {logging_mixin.py:109} INFO - [2022-05-31 20:08:09,469] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:08:09,485] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.102 seconds
+[2022-05-31 20:08:40,529] {processor.py:163} INFO - Started process (PID=449) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:40,534] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:08:40,541] {logging_mixin.py:109} INFO - [2022-05-31 20:08:40,540] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:40,606] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:08:40,621] {logging_mixin.py:109} INFO - [2022-05-31 20:08:40,621] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:40,645] {logging_mixin.py:109} INFO - [2022-05-31 20:08:40,644] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:08:40,659] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.138 seconds
+[2022-05-31 20:09:11,795] {processor.py:163} INFO - Started process (PID=488) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:11,798] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:09:11,801] {logging_mixin.py:109} INFO - [2022-05-31 20:09:11,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:11,879] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:11,898] {logging_mixin.py:109} INFO - [2022-05-31 20:09:11,898] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:11,932] {logging_mixin.py:109} INFO - [2022-05-31 20:09:11,932] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:09:12,474] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.685 seconds
+[2022-05-31 20:09:43,246] {processor.py:163} INFO - Started process (PID=528) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:43,250] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:09:43,253] {logging_mixin.py:109} INFO - [2022-05-31 20:09:43,253] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:43,314] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:09:43,333] {logging_mixin.py:109} INFO - [2022-05-31 20:09:43,333] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:43,374] {logging_mixin.py:109} INFO - [2022-05-31 20:09:43,374] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:09:43,403] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.162 seconds
+[2022-05-31 20:10:14,306] {processor.py:163} INFO - Started process (PID=567) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:14,308] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:10:14,310] {logging_mixin.py:109} INFO - [2022-05-31 20:10:14,310] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:14,356] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:14,368] {logging_mixin.py:109} INFO - [2022-05-31 20:10:14,368] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:14,387] {logging_mixin.py:109} INFO - [2022-05-31 20:10:14,387] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:10:14,399] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.099 seconds
+[2022-05-31 20:10:45,833] {processor.py:163} INFO - Started process (PID=606) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:45,835] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:10:45,837] {logging_mixin.py:109} INFO - [2022-05-31 20:10:45,836] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:45,902] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:10:45,919] {logging_mixin.py:109} INFO - [2022-05-31 20:10:45,918] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:45,940] {logging_mixin.py:109} INFO - [2022-05-31 20:10:45,939] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:10:45,956] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.126 seconds
+[2022-05-31 20:11:17,119] {processor.py:163} INFO - Started process (PID=645) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:17,121] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:11:17,123] {logging_mixin.py:109} INFO - [2022-05-31 20:11:17,123] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:17,175] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:17,185] {logging_mixin.py:109} INFO - [2022-05-31 20:11:17,185] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:17,208] {logging_mixin.py:109} INFO - [2022-05-31 20:11:17,207] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:11:17,224] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.109 seconds
+[2022-05-31 20:11:48,575] {processor.py:163} INFO - Started process (PID=685) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:48,576] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:11:48,578] {logging_mixin.py:109} INFO - [2022-05-31 20:11:48,577] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:48,618] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:11:48,629] {logging_mixin.py:109} INFO - [2022-05-31 20:11:48,629] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:48,648] {logging_mixin.py:109} INFO - [2022-05-31 20:11:48,648] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:11:48,657] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.088 seconds
+[2022-05-31 20:12:19,580] {processor.py:163} INFO - Started process (PID=724) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:19,582] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:12:19,584] {logging_mixin.py:109} INFO - [2022-05-31 20:12:19,584] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:19,630] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:19,643] {logging_mixin.py:109} INFO - [2022-05-31 20:12:19,643] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:19,662] {logging_mixin.py:109} INFO - [2022-05-31 20:12:19,662] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:12:19,679] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.106 seconds
+[2022-05-31 20:12:50,928] {processor.py:163} INFO - Started process (PID=763) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:50,930] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:12:50,932] {logging_mixin.py:109} INFO - [2022-05-31 20:12:50,932] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:50,975] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:12:50,987] {logging_mixin.py:109} INFO - [2022-05-31 20:12:50,987] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:51,006] {logging_mixin.py:109} INFO - [2022-05-31 20:12:51,006] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:12:51,017] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.093 seconds
+[2022-05-31 20:13:22,197] {processor.py:163} INFO - Started process (PID=802) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:22,199] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:13:22,200] {logging_mixin.py:109} INFO - [2022-05-31 20:13:22,200] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:22,245] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:22,256] {logging_mixin.py:109} INFO - [2022-05-31 20:13:22,256] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:22,282] {logging_mixin.py:109} INFO - [2022-05-31 20:13:22,282] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:13:22,294] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.102 seconds
+[2022-05-31 20:13:53,448] {processor.py:163} INFO - Started process (PID=841) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:53,450] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:13:53,452] {logging_mixin.py:109} INFO - [2022-05-31 20:13:53,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:53,505] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:13:53,518] {logging_mixin.py:109} INFO - [2022-05-31 20:13:53,518] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:53,539] {logging_mixin.py:109} INFO - [2022-05-31 20:13:53,539] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:13:53,553] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.112 seconds
+[2022-05-31 20:14:25,092] {processor.py:163} INFO - Started process (PID=880) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:25,094] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:14:25,096] {logging_mixin.py:109} INFO - [2022-05-31 20:14:25,096] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:25,170] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:25,181] {logging_mixin.py:109} INFO - [2022-05-31 20:14:25,181] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:25,201] {logging_mixin.py:109} INFO - [2022-05-31 20:14:25,201] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:14:25,213] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.128 seconds
+[2022-05-31 20:14:56,157] {processor.py:163} INFO - Started process (PID=919) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:56,162] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:14:56,166] {logging_mixin.py:109} INFO - [2022-05-31 20:14:56,165] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:56,252] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:14:56,285] {logging_mixin.py:109} INFO - [2022-05-31 20:14:56,285] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:56,324] {logging_mixin.py:109} INFO - [2022-05-31 20:14:56,324] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:14:56,341] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.190 seconds
+[2022-05-31 20:15:27,498] {processor.py:163} INFO - Started process (PID=958) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:27,502] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:15:27,504] {logging_mixin.py:109} INFO - [2022-05-31 20:15:27,504] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:27,573] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:27,592] {logging_mixin.py:109} INFO - [2022-05-31 20:15:27,592] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:15:27,630] {logging_mixin.py:109} INFO - [2022-05-31 20:15:27,630] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:15:27,653] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.172 seconds
+[2022-05-31 20:15:58,797] {processor.py:163} INFO - Started process (PID=997) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:58,799] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:15:58,801] {logging_mixin.py:109} INFO - [2022-05-31 20:15:58,801] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:58,858] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:15:58,875] {logging_mixin.py:109} INFO - [2022-05-31 20:15:58,874] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:15:58,907] {logging_mixin.py:109} INFO - [2022-05-31 20:15:58,906] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:15:58,919] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.126 seconds
+[2022-05-31 20:16:29,421] {processor.py:163} INFO - Started process (PID=1035) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:16:29,424] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:16:29,426] {logging_mixin.py:109} INFO - [2022-05-31 20:16:29,426] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:16:29,512] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:16:29,527] {logging_mixin.py:109} INFO - [2022-05-31 20:16:29,527] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:16:29,554] {logging_mixin.py:109} INFO - [2022-05-31 20:16:29,554] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:16:29,570] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.153 seconds
+[2022-05-31 20:16:59,884] {processor.py:163} INFO - Started process (PID=1072) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:16:59,948] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:16:59,949] {logging_mixin.py:109} INFO - [2022-05-31 20:16:59,949] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:17:00,003] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:17:00,017] {logging_mixin.py:109} INFO - [2022-05-31 20:17:00,017] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:00,039] {logging_mixin.py:109} INFO - [2022-05-31 20:17:00,039] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:17:00,052] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.181 seconds
+[2022-05-31 20:17:30,568] {processor.py:163} INFO - Started process (PID=1111) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:17:30,570] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:17:30,572] {logging_mixin.py:109} INFO - [2022-05-31 20:17:30,572] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:17:30,616] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:17:30,629] {logging_mixin.py:109} INFO - [2022-05-31 20:17:30,629] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:30,651] {logging_mixin.py:109} INFO - [2022-05-31 20:17:30,651] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:17:30,664] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.107 seconds
+[2022-05-31 20:18:01,135] {processor.py:163} INFO - Started process (PID=1149) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:01,140] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:18:01,142] {logging_mixin.py:109} INFO - [2022-05-31 20:18:01,141] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:01,187] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:01,199] {logging_mixin.py:109} INFO - [2022-05-31 20:18:01,199] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:01,223] {logging_mixin.py:109} INFO - [2022-05-31 20:18:01,223] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:18:01,233] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.103 seconds
+[2022-05-31 20:18:31,761] {processor.py:163} INFO - Started process (PID=1188) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:31,766] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:18:31,768] {logging_mixin.py:109} INFO - [2022-05-31 20:18:31,767] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:31,817] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:18:31,835] {logging_mixin.py:109} INFO - [2022-05-31 20:18:31,835] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:31,858] {logging_mixin.py:109} INFO - [2022-05-31 20:18:31,858] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:18:31,921] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.167 seconds
+[2022-05-31 20:19:02,533] {processor.py:163} INFO - Started process (PID=1227) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:02,536] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:19:02,537] {logging_mixin.py:109} INFO - [2022-05-31 20:19:02,537] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:02,582] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:02,598] {logging_mixin.py:109} INFO - [2022-05-31 20:19:02,598] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:02,623] {logging_mixin.py:109} INFO - [2022-05-31 20:19:02,623] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:19:02,639] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.109 seconds
+[2022-05-31 20:19:33,185] {processor.py:163} INFO - Started process (PID=1266) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:33,193] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:19:33,194] {logging_mixin.py:109} INFO - [2022-05-31 20:19:33,194] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:33,274] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:19:33,303] {logging_mixin.py:109} INFO - [2022-05-31 20:19:33,303] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:33,357] {logging_mixin.py:109} INFO - [2022-05-31 20:19:33,356] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:19:33,383] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.203 seconds
+[2022-05-31 20:20:03,543] {processor.py:163} INFO - Started process (PID=1306) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:03,545] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:20:03,546] {logging_mixin.py:109} INFO - [2022-05-31 20:20:03,546] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:03,585] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:03,599] {logging_mixin.py:109} INFO - [2022-05-31 20:20:03,599] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:03,620] {logging_mixin.py:109} INFO - [2022-05-31 20:20:03,620] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:20:03,633] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.094 seconds
+[2022-05-31 20:20:33,872] {processor.py:163} INFO - Started process (PID=1346) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:33,877] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:20:33,880] {logging_mixin.py:109} INFO - [2022-05-31 20:20:33,879] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:33,963] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:20:33,988] {logging_mixin.py:109} INFO - [2022-05-31 20:20:33,988] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:34,021] {logging_mixin.py:109} INFO - [2022-05-31 20:20:34,021] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:20:34,045] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.189 seconds
+[2022-05-31 20:21:04,950] {processor.py:163} INFO - Started process (PID=1385) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:04,953] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:21:04,955] {logging_mixin.py:109} INFO - [2022-05-31 20:21:04,955] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:04,998] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:05,012] {logging_mixin.py:109} INFO - [2022-05-31 20:21:05,012] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:05,035] {logging_mixin.py:109} INFO - [2022-05-31 20:21:05,035] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:21:05,051] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.108 seconds
+[2022-05-31 20:21:35,628] {processor.py:163} INFO - Started process (PID=1424) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:35,629] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:21:35,631] {logging_mixin.py:109} INFO - [2022-05-31 20:21:35,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:35,669] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:21:35,680] {logging_mixin.py:109} INFO - [2022-05-31 20:21:35,680] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:35,732] {logging_mixin.py:109} INFO - [2022-05-31 20:21:35,732] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:21:35,744] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.120 seconds
+[2022-05-31 20:22:06,490] {processor.py:163} INFO - Started process (PID=1463) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:06,493] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:22:06,495] {logging_mixin.py:109} INFO - [2022-05-31 20:22:06,495] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:06,543] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:06,557] {logging_mixin.py:109} INFO - [2022-05-31 20:22:06,557] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:06,588] {logging_mixin.py:109} INFO - [2022-05-31 20:22:06,588] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:22:06,603] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.120 seconds
+[2022-05-31 20:22:36,687] {processor.py:163} INFO - Started process (PID=1503) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:36,690] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:22:36,693] {logging_mixin.py:109} INFO - [2022-05-31 20:22:36,692] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:36,738] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:22:36,749] {logging_mixin.py:109} INFO - [2022-05-31 20:22:36,748] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:36,768] {logging_mixin.py:109} INFO - [2022-05-31 20:22:36,768] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:22:36,781] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.098 seconds
+[2022-05-31 20:23:06,856] {processor.py:163} INFO - Started process (PID=1542) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:06,858] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:23:06,859] {logging_mixin.py:109} INFO - [2022-05-31 20:23:06,859] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:06,900] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:06,911] {logging_mixin.py:109} INFO - [2022-05-31 20:23:06,911] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:06,930] {logging_mixin.py:109} INFO - [2022-05-31 20:23:06,930] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:23:06,940] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.088 seconds
+[2022-05-31 20:23:37,020] {processor.py:163} INFO - Started process (PID=1581) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:37,022] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:23:37,023] {logging_mixin.py:109} INFO - [2022-05-31 20:23:37,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:37,064] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:23:37,075] {logging_mixin.py:109} INFO - [2022-05-31 20:23:37,075] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:37,097] {logging_mixin.py:109} INFO - [2022-05-31 20:23:37,097] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:23:37,108] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.091 seconds
+[2022-05-31 20:24:07,154] {processor.py:163} INFO - Started process (PID=1620) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:07,156] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:24:07,157] {logging_mixin.py:109} INFO - [2022-05-31 20:24:07,157] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:07,198] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:07,209] {logging_mixin.py:109} INFO - [2022-05-31 20:24:07,208] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:07,227] {logging_mixin.py:109} INFO - [2022-05-31 20:24:07,227] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:24:07,238] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.087 seconds
+[2022-05-31 20:24:37,434] {processor.py:163} INFO - Started process (PID=1659) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:37,441] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:24:37,443] {logging_mixin.py:109} INFO - [2022-05-31 20:24:37,443] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:37,493] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:24:37,507] {logging_mixin.py:109} INFO - [2022-05-31 20:24:37,507] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:37,532] {logging_mixin.py:109} INFO - [2022-05-31 20:24:37,531] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:24:37,544] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.118 seconds
+[2022-05-31 20:25:07,579] {processor.py:163} INFO - Started process (PID=1698) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:07,581] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:25:07,582] {logging_mixin.py:109} INFO - [2022-05-31 20:25:07,582] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:07,627] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:07,639] {logging_mixin.py:109} INFO - [2022-05-31 20:25:07,639] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:07,657] {logging_mixin.py:109} INFO - [2022-05-31 20:25:07,657] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:25:07,669] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.094 seconds
+[2022-05-31 20:25:37,789] {processor.py:163} INFO - Started process (PID=1737) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:37,792] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:25:37,793] {logging_mixin.py:109} INFO - [2022-05-31 20:25:37,793] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:37,836] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:25:37,851] {logging_mixin.py:109} INFO - [2022-05-31 20:25:37,851] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:37,871] {logging_mixin.py:109} INFO - [2022-05-31 20:25:37,871] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:25:37,882] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.100 seconds
+[2022-05-31 20:26:07,972] {processor.py:163} INFO - Started process (PID=1776) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:07,973] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:26:07,975] {logging_mixin.py:109} INFO - [2022-05-31 20:26:07,975] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:08,013] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:08,027] {logging_mixin.py:109} INFO - [2022-05-31 20:26:08,026] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:08,044] {logging_mixin.py:109} INFO - [2022-05-31 20:26:08,044] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:26:08,059] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.091 seconds
+[2022-05-31 20:26:38,286] {processor.py:163} INFO - Started process (PID=1815) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:38,289] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:26:38,291] {logging_mixin.py:109} INFO - [2022-05-31 20:26:38,291] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:38,335] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:26:38,346] {logging_mixin.py:109} INFO - [2022-05-31 20:26:38,346] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:38,365] {logging_mixin.py:109} INFO - [2022-05-31 20:26:38,364] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:26:38,445] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.166 seconds
+[2022-05-31 20:27:09,379] {processor.py:163} INFO - Started process (PID=1854) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:09,382] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:27:09,385] {logging_mixin.py:109} INFO - [2022-05-31 20:27:09,384] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:09,436] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:09,448] {logging_mixin.py:109} INFO - [2022-05-31 20:27:09,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:09,466] {logging_mixin.py:109} INFO - [2022-05-31 20:27:09,466] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:27:09,477] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.103 seconds
+[2022-05-31 20:27:39,554] {processor.py:163} INFO - Started process (PID=1893) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:39,556] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:27:39,558] {logging_mixin.py:109} INFO - [2022-05-31 20:27:39,558] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:39,599] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:27:39,614] {logging_mixin.py:109} INFO - [2022-05-31 20:27:39,614] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:39,642] {logging_mixin.py:109} INFO - [2022-05-31 20:27:39,642] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:27:39,655] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.105 seconds
+[2022-05-31 20:28:09,980] {processor.py:163} INFO - Started process (PID=1932) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:09,984] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:28:09,987] {logging_mixin.py:109} INFO - [2022-05-31 20:28:09,987] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:10,048] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:10,068] {logging_mixin.py:109} INFO - [2022-05-31 20:28:10,068] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:10,119] {logging_mixin.py:109} INFO - [2022-05-31 20:28:10,118] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:28:10,136] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.165 seconds
+[2022-05-31 20:28:40,280] {processor.py:163} INFO - Started process (PID=1971) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:40,283] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:28:40,285] {logging_mixin.py:109} INFO - [2022-05-31 20:28:40,285] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:40,332] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:28:40,346] {logging_mixin.py:109} INFO - [2022-05-31 20:28:40,346] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:40,373] {logging_mixin.py:109} INFO - [2022-05-31 20:28:40,373] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:28:40,388] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.115 seconds
+[2022-05-31 20:29:10,447] {processor.py:163} INFO - Started process (PID=2010) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:10,449] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:29:10,452] {logging_mixin.py:109} INFO - [2022-05-31 20:29:10,451] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:10,495] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:10,505] {logging_mixin.py:109} INFO - [2022-05-31 20:29:10,505] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:29:10,525] {logging_mixin.py:109} INFO - [2022-05-31 20:29:10,525] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:29:10,538] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.095 seconds
+[2022-05-31 20:29:40,921] {processor.py:163} INFO - Started process (PID=2049) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:40,922] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:29:40,923] {logging_mixin.py:109} INFO - [2022-05-31 20:29:40,923] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:40,979] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:29:41,010] {logging_mixin.py:109} INFO - [2022-05-31 20:29:41,005] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:29:41,037] {logging_mixin.py:109} INFO - [2022-05-31 20:29:41,037] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:29:41,651] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.734 seconds
+[2022-05-31 20:30:12,542] {processor.py:163} INFO - Started process (PID=2088) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:12,544] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:30:12,546] {logging_mixin.py:109} INFO - [2022-05-31 20:30:12,545] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:12,585] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:12,604] {logging_mixin.py:109} INFO - [2022-05-31 20:30:12,604] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:30:12,628] {logging_mixin.py:109} INFO - [2022-05-31 20:30:12,628] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:30:12,647] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.108 seconds
+[2022-05-31 20:30:43,133] {processor.py:163} INFO - Started process (PID=2127) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:43,136] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:30:43,138] {logging_mixin.py:109} INFO - [2022-05-31 20:30:43,137] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:43,187] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:30:43,202] {logging_mixin.py:109} INFO - [2022-05-31 20:30:43,202] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:30:43,230] {logging_mixin.py:109} INFO - [2022-05-31 20:30:43,230] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:30:43,246] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.120 seconds
+[2022-05-31 20:31:13,489] {processor.py:163} INFO - Started process (PID=2166) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:13,491] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:31:13,493] {logging_mixin.py:109} INFO - [2022-05-31 20:31:13,493] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:13,535] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:13,549] {logging_mixin.py:109} INFO - [2022-05-31 20:31:13,549] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:13,575] {logging_mixin.py:109} INFO - [2022-05-31 20:31:13,575] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:31:13,593] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.107 seconds
+[2022-05-31 20:31:43,776] {processor.py:163} INFO - Started process (PID=2205) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:43,779] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:31:43,782] {logging_mixin.py:109} INFO - [2022-05-31 20:31:43,782] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:43,846] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:31:43,862] {logging_mixin.py:109} INFO - [2022-05-31 20:31:43,861] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:43,901] {logging_mixin.py:109} INFO - [2022-05-31 20:31:43,901] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:31:43,928] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.164 seconds
+[2022-05-31 20:32:14,380] {processor.py:163} INFO - Started process (PID=2244) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:14,383] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:32:14,386] {logging_mixin.py:109} INFO - [2022-05-31 20:32:14,385] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:14,431] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:14,446] {logging_mixin.py:109} INFO - [2022-05-31 20:32:14,446] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:14,472] {logging_mixin.py:109} INFO - [2022-05-31 20:32:14,471] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:32:14,490] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.117 seconds
+[2022-05-31 20:32:44,586] {processor.py:163} INFO - Started process (PID=2283) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:44,588] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:32:44,590] {logging_mixin.py:109} INFO - [2022-05-31 20:32:44,589] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:44,630] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:32:44,641] {logging_mixin.py:109} INFO - [2022-05-31 20:32:44,641] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:44,660] {logging_mixin.py:109} INFO - [2022-05-31 20:32:44,660] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:32:44,690] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.107 seconds
+[2022-05-31 20:33:15,369] {processor.py:163} INFO - Started process (PID=2322) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:15,371] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:33:15,372] {logging_mixin.py:109} INFO - [2022-05-31 20:33:15,372] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:15,416] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:15,427] {logging_mixin.py:109} INFO - [2022-05-31 20:33:15,427] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:15,449] {logging_mixin.py:109} INFO - [2022-05-31 20:33:15,449] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:33:15,460] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.096 seconds
+[2022-05-31 20:33:45,836] {processor.py:163} INFO - Started process (PID=2361) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:45,839] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:33:45,840] {logging_mixin.py:109} INFO - [2022-05-31 20:33:45,840] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:45,883] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:33:45,895] {logging_mixin.py:109} INFO - [2022-05-31 20:33:45,895] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:45,915] {logging_mixin.py:109} INFO - [2022-05-31 20:33:45,915] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:33:45,926] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.093 seconds
+[2022-05-31 20:34:16,543] {processor.py:163} INFO - Started process (PID=2400) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:16,546] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:34:16,548] {logging_mixin.py:109} INFO - [2022-05-31 20:34:16,547] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:16,634] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:16,651] {logging_mixin.py:109} INFO - [2022-05-31 20:34:16,651] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:16,682] {logging_mixin.py:109} INFO - [2022-05-31 20:34:16,682] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:34:16,695] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.160 seconds
+[2022-05-31 20:34:46,755] {processor.py:163} INFO - Started process (PID=2439) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:46,758] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:34:46,760] {logging_mixin.py:109} INFO - [2022-05-31 20:34:46,760] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:46,814] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:34:46,828] {logging_mixin.py:109} INFO - [2022-05-31 20:34:46,828] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:46,850] {logging_mixin.py:109} INFO - [2022-05-31 20:34:46,850] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:34:46,868] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.122 seconds
+[2022-05-31 20:35:17,603] {processor.py:163} INFO - Started process (PID=2479) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:17,605] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:35:17,606] {logging_mixin.py:109} INFO - [2022-05-31 20:35:17,606] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:17,645] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:17,656] {logging_mixin.py:109} INFO - [2022-05-31 20:35:17,656] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:17,674] {logging_mixin.py:109} INFO - [2022-05-31 20:35:17,674] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:35:17,685] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.086 seconds
+[2022-05-31 20:35:48,615] {processor.py:163} INFO - Started process (PID=2518) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:48,618] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:35:48,620] {logging_mixin.py:109} INFO - [2022-05-31 20:35:48,619] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:48,667] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:35:48,678] {logging_mixin.py:109} INFO - [2022-05-31 20:35:48,678] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:48,708] {logging_mixin.py:109} INFO - [2022-05-31 20:35:48,707] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:35:48,723] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.116 seconds
+[2022-05-31 20:36:19,042] {processor.py:163} INFO - Started process (PID=2557) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:19,044] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:36:19,046] {logging_mixin.py:109} INFO - [2022-05-31 20:36:19,045] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:19,087] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:19,098] {logging_mixin.py:109} INFO - [2022-05-31 20:36:19,098] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:19,117] {logging_mixin.py:109} INFO - [2022-05-31 20:36:19,117] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:36:19,127] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.088 seconds
+[2022-05-31 20:36:49,397] {processor.py:163} INFO - Started process (PID=2596) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:49,399] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:36:49,402] {logging_mixin.py:109} INFO - [2022-05-31 20:36:49,402] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:49,455] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:36:49,473] {logging_mixin.py:109} INFO - [2022-05-31 20:36:49,472] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:49,501] {logging_mixin.py:109} INFO - [2022-05-31 20:36:49,501] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:36:49,516] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.125 seconds
+[2022-05-31 20:37:20,506] {processor.py:163} INFO - Started process (PID=2635) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:20,509] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:37:20,511] {logging_mixin.py:109} INFO - [2022-05-31 20:37:20,510] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:20,558] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:20,577] {logging_mixin.py:109} INFO - [2022-05-31 20:37:20,577] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:20,600] {logging_mixin.py:109} INFO - [2022-05-31 20:37:20,600] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:37:20,614] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.115 seconds
+[2022-05-31 20:37:51,256] {processor.py:163} INFO - Started process (PID=2674) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:51,258] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:37:51,260] {logging_mixin.py:109} INFO - [2022-05-31 20:37:51,260] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:51,328] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:37:51,346] {logging_mixin.py:109} INFO - [2022-05-31 20:37:51,345] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:51,372] {logging_mixin.py:109} INFO - [2022-05-31 20:37:51,372] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:37:51,389] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.142 seconds
+[2022-05-31 20:38:22,223] {processor.py:163} INFO - Started process (PID=2713) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:22,236] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:38:22,238] {logging_mixin.py:109} INFO - [2022-05-31 20:38:22,237] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:22,285] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:22,300] {logging_mixin.py:109} INFO - [2022-05-31 20:38:22,300] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:22,325] {logging_mixin.py:109} INFO - [2022-05-31 20:38:22,325] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:38:22,413] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.197 seconds
+[2022-05-31 20:38:53,089] {processor.py:163} INFO - Started process (PID=2752) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:53,092] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:38:53,094] {logging_mixin.py:109} INFO - [2022-05-31 20:38:53,094] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:53,142] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:38:53,159] {logging_mixin.py:109} INFO - [2022-05-31 20:38:53,159] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:53,215] {logging_mixin.py:109} INFO - [2022-05-31 20:38:53,214] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:38:53,233] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.151 seconds
+[2022-05-31 20:39:23,656] {processor.py:163} INFO - Started process (PID=2791) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:23,658] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:39:23,660] {logging_mixin.py:109} INFO - [2022-05-31 20:39:23,660] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:23,706] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:23,719] {logging_mixin.py:109} INFO - [2022-05-31 20:39:23,718] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:23,739] {logging_mixin.py:109} INFO - [2022-05-31 20:39:23,739] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:39:23,749] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.096 seconds
+[2022-05-31 20:39:54,015] {processor.py:163} INFO - Started process (PID=2827) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:54,017] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:39:54,019] {logging_mixin.py:109} INFO - [2022-05-31 20:39:54,019] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:54,068] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:39:54,079] {logging_mixin.py:109} INFO - [2022-05-31 20:39:54,079] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:54,099] {logging_mixin.py:109} INFO - [2022-05-31 20:39:54,098] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:39:54,121] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.112 seconds
+[2022-05-31 20:40:24,842] {processor.py:163} INFO - Started process (PID=2859) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:24,844] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:40:24,850] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,850] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:24,913] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:24,924] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,924] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:24,943] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,943] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:40:24,954] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.123 seconds
+[2022-05-31 20:40:55,249] {processor.py:163} INFO - Started process (PID=2894) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:55,251] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:40:55,252] {logging_mixin.py:109} INFO - [2022-05-31 20:40:55,252] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:55,299] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:40:55,312] {logging_mixin.py:109} INFO - [2022-05-31 20:40:55,312] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:55,342] {logging_mixin.py:109} INFO - [2022-05-31 20:40:55,341] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:40:55,359] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.114 seconds
+[2022-05-31 20:41:26,208] {processor.py:163} INFO - Started process (PID=2932) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:26,211] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:41:26,213] {logging_mixin.py:109} INFO - [2022-05-31 20:41:26,213] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:26,262] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:26,276] {logging_mixin.py:109} INFO - [2022-05-31 20:41:26,276] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:26,297] {logging_mixin.py:109} INFO - [2022-05-31 20:41:26,296] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:41:26,306] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.104 seconds
+[2022-05-31 20:41:57,411] {processor.py:163} INFO - Started process (PID=2966) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:57,414] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:41:57,417] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,416] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:57,471] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:41:57,492] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,492] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:57,509] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,509] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:41:57,521] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.116 seconds
+[2022-05-31 20:42:28,209] {processor.py:163} INFO - Started process (PID=3003) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:28,212] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:42:28,215] {logging_mixin.py:109} INFO - [2022-05-31 20:42:28,214] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:28,279] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:28,291] {logging_mixin.py:109} INFO - [2022-05-31 20:42:28,291] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:42:28,319] {logging_mixin.py:109} INFO - [2022-05-31 20:42:28,319] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:42:28,335] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.130 seconds
+[2022-05-31 20:42:59,434] {processor.py:163} INFO - Started process (PID=3040) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:59,437] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:42:59,443] {logging_mixin.py:109} INFO - [2022-05-31 20:42:59,443] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:59,488] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:42:59,501] {logging_mixin.py:109} INFO - [2022-05-31 20:42:59,501] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:42:59,523] {logging_mixin.py:109} INFO - [2022-05-31 20:42:59,523] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:42:59,538] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.108 seconds
+[2022-05-31 20:43:30,957] {processor.py:163} INFO - Started process (PID=3079) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:43:30,959] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:43:30,962] {logging_mixin.py:109} INFO - [2022-05-31 20:43:30,962] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:43:31,014] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:43:31,031] {logging_mixin.py:109} INFO - [2022-05-31 20:43:31,031] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:43:31,056] {logging_mixin.py:109} INFO - [2022-05-31 20:43:31,056] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:43:31,072] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.120 seconds
+[2022-05-31 20:44:01,848] {processor.py:163} INFO - Started process (PID=3118) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:01,850] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:44:01,851] {logging_mixin.py:109} INFO - [2022-05-31 20:44:01,851] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:01,893] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:01,908] {logging_mixin.py:109} INFO - [2022-05-31 20:44:01,907] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:01,930] {logging_mixin.py:109} INFO - [2022-05-31 20:44:01,930] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:44:01,944] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.101 seconds
+[2022-05-31 20:44:32,603] {processor.py:163} INFO - Started process (PID=3157) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:32,605] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:44:32,606] {logging_mixin.py:109} INFO - [2022-05-31 20:44:32,606] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:32,654] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:44:32,667] {logging_mixin.py:109} INFO - [2022-05-31 20:44:32,666] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:32,687] {logging_mixin.py:109} INFO - [2022-05-31 20:44:32,687] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:44:32,699] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.100 seconds
+[2022-05-31 20:45:04,279] {processor.py:163} INFO - Started process (PID=3196) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:04,282] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:45:04,284] {logging_mixin.py:109} INFO - [2022-05-31 20:45:04,283] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:04,403] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:04,418] {logging_mixin.py:109} INFO - [2022-05-31 20:45:04,418] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:04,455] {logging_mixin.py:109} INFO - [2022-05-31 20:45:04,454] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:45:04,491] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.219 seconds
+[2022-05-31 20:45:35,448] {processor.py:163} INFO - Started process (PID=3236) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:35,451] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:45:35,453] {logging_mixin.py:109} INFO - [2022-05-31 20:45:35,452] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:35,492] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:45:35,504] {logging_mixin.py:109} INFO - [2022-05-31 20:45:35,504] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:35,528] {logging_mixin.py:109} INFO - [2022-05-31 20:45:35,528] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:45:35,542] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.101 seconds
+[2022-05-31 20:46:06,893] {processor.py:163} INFO - Started process (PID=3276) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:06,895] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:46:06,896] {logging_mixin.py:109} INFO - [2022-05-31 20:46:06,896] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:06,944] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:06,955] {logging_mixin.py:109} INFO - [2022-05-31 20:46:06,955] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:07,097] {logging_mixin.py:109} INFO - [2022-05-31 20:46:07,097] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:46:07,113] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.226 seconds
+[2022-05-31 20:46:38,070] {processor.py:163} INFO - Started process (PID=3315) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:38,074] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:46:38,078] {logging_mixin.py:109} INFO - [2022-05-31 20:46:38,078] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:38,132] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:46:38,150] {logging_mixin.py:109} INFO - [2022-05-31 20:46:38,150] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:38,258] {logging_mixin.py:109} INFO - [2022-05-31 20:46:38,258] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:46:38,284] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.226 seconds
+[2022-05-31 20:47:08,861] {processor.py:163} INFO - Started process (PID=3354) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:08,862] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:47:08,864] {logging_mixin.py:109} INFO - [2022-05-31 20:47:08,864] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:08,905] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:08,917] {logging_mixin.py:109} INFO - [2022-05-31 20:47:08,917] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:09,015] {logging_mixin.py:109} INFO - [2022-05-31 20:47:09,015] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:47:09,421] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.564 seconds
+[2022-05-31 20:47:40,074] {processor.py:163} INFO - Started process (PID=3393) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:40,075] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:47:40,077] {logging_mixin.py:109} INFO - [2022-05-31 20:47:40,077] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:40,121] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:47:40,220] {logging_mixin.py:109} INFO - [2022-05-31 20:47:40,220] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:40,239] {logging_mixin.py:109} INFO - [2022-05-31 20:47:40,239] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:47:40,267] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.198 seconds
+[2022-05-31 20:48:11,232] {processor.py:163} INFO - Started process (PID=3432) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:11,236] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:48:11,238] {logging_mixin.py:109} INFO - [2022-05-31 20:48:11,238] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:11,285] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:11,382] {logging_mixin.py:109} INFO - [2022-05-31 20:48:11,381] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:11,399] {logging_mixin.py:109} INFO - [2022-05-31 20:48:11,399] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:48:11,421] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.195 seconds
+[2022-05-31 20:48:42,296] {processor.py:163} INFO - Started process (PID=3471) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:42,299] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:48:42,300] {logging_mixin.py:109} INFO - [2022-05-31 20:48:42,300] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:42,419] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:48:42,431] {logging_mixin.py:109} INFO - [2022-05-31 20:48:42,431] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:42,450] {logging_mixin.py:109} INFO - [2022-05-31 20:48:42,450] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:48:42,645] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.352 seconds
+[2022-05-31 20:49:13,333] {processor.py:163} INFO - Started process (PID=3510) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:13,335] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:49:13,336] {logging_mixin.py:109} INFO - [2022-05-31 20:49:13,336] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:13,490] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:13,500] {logging_mixin.py:109} INFO - [2022-05-31 20:49:13,500] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:13,523] {logging_mixin.py:109} INFO - [2022-05-31 20:49:13,523] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:49:13,534] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.205 seconds
+[2022-05-31 20:49:44,959] {processor.py:163} INFO - Started process (PID=3549) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:44,962] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:49:44,972] {logging_mixin.py:109} INFO - [2022-05-31 20:49:44,967] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:45,504] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:49:45,527] {logging_mixin.py:109} INFO - [2022-05-31 20:49:45,527] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:45,569] {logging_mixin.py:109} INFO - [2022-05-31 20:49:45,569] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:49:45,588] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.640 seconds
+[2022-05-31 20:50:16,433] {processor.py:163} INFO - Started process (PID=3588) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:16,437] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:50:16,439] {logging_mixin.py:109} INFO - [2022-05-31 20:50:16,439] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:16,595] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:16,611] {logging_mixin.py:109} INFO - [2022-05-31 20:50:16,611] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:16,643] {logging_mixin.py:109} INFO - [2022-05-31 20:50:16,643] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:50:16,672] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.245 seconds
+[2022-05-31 20:50:48,803] {processor.py:163} INFO - Started process (PID=3628) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:48,806] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:50:48,809] {logging_mixin.py:109} INFO - [2022-05-31 20:50:48,809] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:49,024] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:50:49,036] {logging_mixin.py:109} INFO - [2022-05-31 20:50:49,036] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:49,053] {logging_mixin.py:109} INFO - [2022-05-31 20:50:49,053] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:50:49,064] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.267 seconds
+[2022-05-31 20:51:19,456] {processor.py:163} INFO - Started process (PID=3667) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:19,458] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:51:19,460] {logging_mixin.py:109} INFO - [2022-05-31 20:51:19,460] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:19,523] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:19,538] {logging_mixin.py:109} INFO - [2022-05-31 20:51:19,538] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:19,562] {logging_mixin.py:109} INFO - [2022-05-31 20:51:19,562] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:51:19,575] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.123 seconds
+[2022-05-31 20:51:50,852] {processor.py:163} INFO - Started process (PID=3706) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:50,855] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:51:50,858] {logging_mixin.py:109} INFO - [2022-05-31 20:51:50,858] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:50,921] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:51:50,939] {logging_mixin.py:109} INFO - [2022-05-31 20:51:50,932] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:50,975] {logging_mixin.py:109} INFO - [2022-05-31 20:51:50,974] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:51:50,997] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.152 seconds
+[2022-05-31 20:52:21,877] {processor.py:163} INFO - Started process (PID=3745) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:21,879] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:52:21,880] {logging_mixin.py:109} INFO - [2022-05-31 20:52:21,880] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:21,927] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:21,937] {logging_mixin.py:109} INFO - [2022-05-31 20:52:21,937] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:21,963] {logging_mixin.py:109} INFO - [2022-05-31 20:52:21,963] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:52:21,980] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.107 seconds
+[2022-05-31 20:52:52,595] {processor.py:163} INFO - Started process (PID=3784) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:52,597] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:52:52,598] {logging_mixin.py:109} INFO - [2022-05-31 20:52:52,598] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:52,653] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:52:52,669] {logging_mixin.py:109} INFO - [2022-05-31 20:52:52,669] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:52,695] {logging_mixin.py:109} INFO - [2022-05-31 20:52:52,695] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:52:52,716] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.125 seconds
+[2022-05-31 20:53:23,569] {processor.py:163} INFO - Started process (PID=3823) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:23,571] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:53:23,572] {logging_mixin.py:109} INFO - [2022-05-31 20:53:23,572] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:23,615] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:23,626] {logging_mixin.py:109} INFO - [2022-05-31 20:53:23,626] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:23,646] {logging_mixin.py:109} INFO - [2022-05-31 20:53:23,646] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:53:23,661] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.096 seconds
+[2022-05-31 20:53:54,412] {processor.py:163} INFO - Started process (PID=3862) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:54,416] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:53:54,418] {logging_mixin.py:109} INFO - [2022-05-31 20:53:54,418] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:54,464] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:53:54,481] {logging_mixin.py:109} INFO - [2022-05-31 20:53:54,481] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:54,510] {logging_mixin.py:109} INFO - [2022-05-31 20:53:54,510] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:53:54,527] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.121 seconds
+[2022-05-31 20:54:25,547] {processor.py:163} INFO - Started process (PID=3901) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:25,549] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:54:25,551] {logging_mixin.py:109} INFO - [2022-05-31 20:54:25,551] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:25,639] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:25,662] {logging_mixin.py:109} INFO - [2022-05-31 20:54:25,661] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:54:25,691] {logging_mixin.py:109} INFO - [2022-05-31 20:54:25,691] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:54:25,773] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.231 seconds
+[2022-05-31 20:54:56,798] {processor.py:163} INFO - Started process (PID=3940) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:56,800] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:54:56,802] {logging_mixin.py:109} INFO - [2022-05-31 20:54:56,802] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:56,852] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:54:56,865] {logging_mixin.py:109} INFO - [2022-05-31 20:54:56,865] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:54:56,884] {logging_mixin.py:109} INFO - [2022-05-31 20:54:56,883] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:54:56,896] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.105 seconds
+[2022-05-31 20:55:27,343] {processor.py:163} INFO - Started process (PID=3978) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:27,345] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:55:27,347] {logging_mixin.py:109} INFO - [2022-05-31 20:55:27,347] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:27,384] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:27,394] {logging_mixin.py:109} INFO - [2022-05-31 20:55:27,394] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:55:27,412] {logging_mixin.py:109} INFO - [2022-05-31 20:55:27,411] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:55:27,421] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.083 seconds
+[2022-05-31 20:55:58,492] {processor.py:163} INFO - Started process (PID=4018) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:58,494] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:55:58,495] {logging_mixin.py:109} INFO - [2022-05-31 20:55:58,495] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:58,538] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:55:58,549] {logging_mixin.py:109} INFO - [2022-05-31 20:55:58,549] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:55:58,573] {logging_mixin.py:109} INFO - [2022-05-31 20:55:58,572] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:55:58,587] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.101 seconds
+[2022-05-31 20:56:29,388] {processor.py:163} INFO - Started process (PID=4057) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:56:29,395] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:56:29,397] {logging_mixin.py:109} INFO - [2022-05-31 20:56:29,397] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:56:29,452] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:56:29,464] {logging_mixin.py:109} INFO - [2022-05-31 20:56:29,463] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:56:29,483] {logging_mixin.py:109} INFO - [2022-05-31 20:56:29,482] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:56:29,493] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.109 seconds
+[2022-05-31 20:57:00,365] {processor.py:163} INFO - Started process (PID=4096) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:00,370] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:57:00,373] {logging_mixin.py:109} INFO - [2022-05-31 20:57:00,373] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:00,432] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:00,447] {logging_mixin.py:109} INFO - [2022-05-31 20:57:00,446] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:00,465] {logging_mixin.py:109} INFO - [2022-05-31 20:57:00,464] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:57:00,486] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.133 seconds
+[2022-05-31 20:57:31,275] {processor.py:163} INFO - Started process (PID=4135) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:31,277] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:57:31,278] {logging_mixin.py:109} INFO - [2022-05-31 20:57:31,278] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:31,324] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:57:31,349] {logging_mixin.py:109} INFO - [2022-05-31 20:57:31,348] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:31,389] {logging_mixin.py:109} INFO - [2022-05-31 20:57:31,389] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:57:31,404] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.135 seconds
+[2022-05-31 20:58:02,261] {processor.py:163} INFO - Started process (PID=4174) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:02,262] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:58:02,264] {logging_mixin.py:109} INFO - [2022-05-31 20:58:02,263] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:02,313] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:02,323] {logging_mixin.py:109} INFO - [2022-05-31 20:58:02,323] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:02,343] {logging_mixin.py:109} INFO - [2022-05-31 20:58:02,343] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:58:02,354] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.097 seconds
+[2022-05-31 20:58:33,623] {processor.py:163} INFO - Started process (PID=4213) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:33,628] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:58:33,631] {logging_mixin.py:109} INFO - [2022-05-31 20:58:33,631] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:33,700] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:58:33,711] {logging_mixin.py:109} INFO - [2022-05-31 20:58:33,711] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:33,731] {logging_mixin.py:109} INFO - [2022-05-31 20:58:33,731] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:58:33,755] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.142 seconds
+[2022-05-31 20:59:04,887] {processor.py:163} INFO - Started process (PID=4252) to work on /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:59:04,889] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/roma_third_dag.py for tasks to queue
+[2022-05-31 20:59:04,890] {logging_mixin.py:109} INFO - [2022-05-31 20:59:04,890] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:59:04,937] {processor.py:654} INFO - DAG(s) dict_keys(['roma_third_dag']) retrieved from /opt/bitnami/airflow/dags/roma_third_dag.py
+[2022-05-31 20:59:04,949] {logging_mixin.py:109} INFO - [2022-05-31 20:59:04,949] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:59:04,971] {logging_mixin.py:109} INFO - [2022-05-31 20:59:04,971] {dag.py:2937} INFO - Setting next_dagrun for roma_third_dag to None
+[2022-05-31 20:59:05,068] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/roma_third_dag.py took 0.185 seconds

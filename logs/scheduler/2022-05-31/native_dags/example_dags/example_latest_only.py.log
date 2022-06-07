@@ -1,0 +1,749 @@
+[2022-05-31 20:04:04,112] {processor.py:163} INFO - Started process (PID=112) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:04,117] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:04:04,121] {logging_mixin.py:109} INFO - [2022-05-31 20:04:04,120] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:04,216] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:04,245] {logging_mixin.py:109} INFO - [2022-05-31 20:04:04,245] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:04,292] {logging_mixin.py:109} INFO - [2022-05-31 20:04:04,292] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:04:04.292056+00:00
+[2022-05-31 20:04:04,323] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.230 seconds
+[2022-05-31 20:04:34,668] {processor.py:163} INFO - Started process (PID=151) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:34,670] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:04:34,672] {logging_mixin.py:109} INFO - [2022-05-31 20:04:34,672] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:34,720] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:04:34,737] {logging_mixin.py:109} INFO - [2022-05-31 20:04:34,736] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:34,777] {logging_mixin.py:109} INFO - [2022-05-31 20:04:34,777] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:04:34.770899+00:00
+[2022-05-31 20:04:34,796] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.133 seconds
+[2022-05-31 20:05:06,020] {processor.py:163} INFO - Started process (PID=190) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:06,022] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:05:06,023] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:06,059] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:06,071] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,071] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:06,090] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,090] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:05:06.090426+00:00
+[2022-05-31 20:05:06,105] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.088 seconds
+[2022-05-31 20:05:37,328] {processor.py:163} INFO - Started process (PID=229) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:37,330] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:05:37,332] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,332] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:37,384] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:05:37,403] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,403] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:37,429] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,429] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:05:37.428698+00:00
+[2022-05-31 20:05:37,446] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.125 seconds
+[2022-05-31 20:06:07,881] {processor.py:163} INFO - Started process (PID=268) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:07,883] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:06:07,887] {logging_mixin.py:109} INFO - [2022-05-31 20:06:07,886] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:07,937] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:07,955] {logging_mixin.py:109} INFO - [2022-05-31 20:06:07,955] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:07,991] {logging_mixin.py:109} INFO - [2022-05-31 20:06:07,991] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:06:07.990693+00:00
+[2022-05-31 20:06:08,028] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.159 seconds
+[2022-05-31 20:06:38,351] {processor.py:163} INFO - Started process (PID=307) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:38,354] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:06:38,356] {logging_mixin.py:109} INFO - [2022-05-31 20:06:38,356] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:38,399] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:06:38,414] {logging_mixin.py:109} INFO - [2022-05-31 20:06:38,414] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:38,437] {logging_mixin.py:109} INFO - [2022-05-31 20:06:38,437] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:06:38.437548+00:00
+[2022-05-31 20:06:38,453] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2022-05-31 20:07:08,918] {processor.py:163} INFO - Started process (PID=346) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:08,921] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:07:08,922] {logging_mixin.py:109} INFO - [2022-05-31 20:07:08,922] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:08,962] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:08,974] {logging_mixin.py:109} INFO - [2022-05-31 20:07:08,974] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:08,992] {logging_mixin.py:109} INFO - [2022-05-31 20:07:08,992] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:07:08.992036+00:00
+[2022-05-31 20:07:09,003] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
+[2022-05-31 20:07:39,218] {processor.py:163} INFO - Started process (PID=384) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:39,221] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:07:39,223] {logging_mixin.py:109} INFO - [2022-05-31 20:07:39,223] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:39,263] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:07:39,281] {logging_mixin.py:109} INFO - [2022-05-31 20:07:39,281] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:39,300] {logging_mixin.py:109} INFO - [2022-05-31 20:07:39,300] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:07:39.300261+00:00
+[2022-05-31 20:07:39,313] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.102 seconds
+[2022-05-31 20:08:10,325] {processor.py:163} INFO - Started process (PID=423) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:10,327] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:08:10,328] {logging_mixin.py:109} INFO - [2022-05-31 20:08:10,328] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:10,362] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:10,374] {logging_mixin.py:109} INFO - [2022-05-31 20:08:10,373] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:10,393] {logging_mixin.py:109} INFO - [2022-05-31 20:08:10,392] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:08:10.392474+00:00
+[2022-05-31 20:08:10,403] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2022-05-31 20:08:41,583] {processor.py:163} INFO - Started process (PID=462) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:41,585] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:08:41,587] {logging_mixin.py:109} INFO - [2022-05-31 20:08:41,586] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:41,626] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:08:41,637] {logging_mixin.py:109} INFO - [2022-05-31 20:08:41,637] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:41,657] {logging_mixin.py:109} INFO - [2022-05-31 20:08:41,656] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:08:41.656607+00:00
+[2022-05-31 20:08:41,697] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2022-05-31 20:09:13,542] {processor.py:163} INFO - Started process (PID=501) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:13,544] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:09:13,546] {logging_mixin.py:109} INFO - [2022-05-31 20:09:13,546] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:13,584] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:13,599] {logging_mixin.py:109} INFO - [2022-05-31 20:09:13,598] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:13,620] {logging_mixin.py:109} INFO - [2022-05-31 20:09:13,620] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:09:13.620360+00:00
+[2022-05-31 20:09:13,635] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.099 seconds
+[2022-05-31 20:09:44,471] {processor.py:163} INFO - Started process (PID=541) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:44,479] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:09:44,481] {logging_mixin.py:109} INFO - [2022-05-31 20:09:44,481] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:44,598] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:09:44,627] {logging_mixin.py:109} INFO - [2022-05-31 20:09:44,627] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:44,663] {logging_mixin.py:109} INFO - [2022-05-31 20:09:44,663] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:09:44.663501+00:00
+[2022-05-31 20:09:44,681] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.214 seconds
+[2022-05-31 20:10:15,278] {processor.py:163} INFO - Started process (PID=580) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:15,281] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:10:15,283] {logging_mixin.py:109} INFO - [2022-05-31 20:10:15,283] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:15,324] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:15,336] {logging_mixin.py:109} INFO - [2022-05-31 20:10:15,336] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:15,357] {logging_mixin.py:109} INFO - [2022-05-31 20:10:15,357] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:10:15.356828+00:00
+[2022-05-31 20:10:15,372] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.101 seconds
+[2022-05-31 20:10:47,265] {processor.py:163} INFO - Started process (PID=620) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:47,267] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:10:47,268] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,268] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:47,304] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:10:47,316] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,316] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:47,335] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,335] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:10:47.335242+00:00
+[2022-05-31 20:10:47,351] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
+[2022-05-31 20:11:19,090] {processor.py:163} INFO - Started process (PID=659) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:19,092] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:11:19,093] {logging_mixin.py:109} INFO - [2022-05-31 20:11:19,093] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:19,129] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:19,140] {logging_mixin.py:109} INFO - [2022-05-31 20:11:19,140] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:19,158] {logging_mixin.py:109} INFO - [2022-05-31 20:11:19,158] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:11:19.158252+00:00
+[2022-05-31 20:11:19,562] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.476 seconds
+[2022-05-31 20:11:49,974] {processor.py:163} INFO - Started process (PID=699) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:49,976] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:11:49,978] {logging_mixin.py:109} INFO - [2022-05-31 20:11:49,978] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:50,014] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:11:50,027] {logging_mixin.py:109} INFO - [2022-05-31 20:11:50,027] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:50,046] {logging_mixin.py:109} INFO - [2022-05-31 20:11:50,046] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:11:50.045736+00:00
+[2022-05-31 20:11:50,057] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.087 seconds
+[2022-05-31 20:12:20,973] {processor.py:163} INFO - Started process (PID=738) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:20,978] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:12:20,980] {logging_mixin.py:109} INFO - [2022-05-31 20:12:20,980] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:21,024] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:21,037] {logging_mixin.py:109} INFO - [2022-05-31 20:12:21,037] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:21,056] {logging_mixin.py:109} INFO - [2022-05-31 20:12:21,055] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:12:21.055567+00:00
+[2022-05-31 20:12:21,067] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.102 seconds
+[2022-05-31 20:12:52,274] {processor.py:163} INFO - Started process (PID=777) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:52,276] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:12:52,277] {logging_mixin.py:109} INFO - [2022-05-31 20:12:52,277] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:52,322] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:12:52,337] {logging_mixin.py:109} INFO - [2022-05-31 20:12:52,337] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:52,364] {logging_mixin.py:109} INFO - [2022-05-31 20:12:52,364] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:12:52.363708+00:00
+[2022-05-31 20:12:52,378] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2022-05-31 20:13:23,614] {processor.py:163} INFO - Started process (PID=816) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:23,616] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:13:23,617] {logging_mixin.py:109} INFO - [2022-05-31 20:13:23,617] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:23,656] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:23,671] {logging_mixin.py:109} INFO - [2022-05-31 20:13:23,671] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:23,696] {logging_mixin.py:109} INFO - [2022-05-31 20:13:23,696] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:13:23.696044+00:00
+[2022-05-31 20:13:23,713] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.104 seconds
+[2022-05-31 20:13:54,836] {processor.py:163} INFO - Started process (PID=855) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:54,838] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:13:54,839] {logging_mixin.py:109} INFO - [2022-05-31 20:13:54,839] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:54,877] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:13:54,888] {logging_mixin.py:109} INFO - [2022-05-31 20:13:54,888] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:54,911] {logging_mixin.py:109} INFO - [2022-05-31 20:13:54,911] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:13:54.910786+00:00
+[2022-05-31 20:13:54,924] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.092 seconds
+[2022-05-31 20:14:26,559] {processor.py:163} INFO - Started process (PID=894) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:26,561] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:14:26,563] {logging_mixin.py:109} INFO - [2022-05-31 20:14:26,563] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:26,601] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:26,613] {logging_mixin.py:109} INFO - [2022-05-31 20:14:26,613] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:26,633] {logging_mixin.py:109} INFO - [2022-05-31 20:14:26,633] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:14:26.633031+00:00
+[2022-05-31 20:14:26,740] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.188 seconds
+[2022-05-31 20:14:57,946] {processor.py:163} INFO - Started process (PID=933) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:57,949] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:14:57,950] {logging_mixin.py:109} INFO - [2022-05-31 20:14:57,950] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:57,991] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:14:58,005] {logging_mixin.py:109} INFO - [2022-05-31 20:14:58,005] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:58,032] {logging_mixin.py:109} INFO - [2022-05-31 20:14:58,032] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:14:58.031847+00:00
+[2022-05-31 20:14:58,054] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.115 seconds
+[2022-05-31 20:15:29,129] {processor.py:163} INFO - Started process (PID=972) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:15:29,132] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:15:29,134] {logging_mixin.py:109} INFO - [2022-05-31 20:15:29,134] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:15:29,186] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:15:29,199] {logging_mixin.py:109} INFO - [2022-05-31 20:15:29,199] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:15:29,222] {logging_mixin.py:109} INFO - [2022-05-31 20:15:29,222] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:15:29.221353+00:00
+[2022-05-31 20:15:29,234] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2022-05-31 20:16:00,283] {processor.py:163} INFO - Started process (PID=1011) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:00,285] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:16:00,286] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,286] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:00,327] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:00,340] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,340] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:16:00,369] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,369] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:16:00.368540+00:00
+[2022-05-31 20:16:00,384] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.105 seconds
+[2022-05-31 20:16:31,529] {processor.py:163} INFO - Started process (PID=1050) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:31,531] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:16:31,532] {logging_mixin.py:109} INFO - [2022-05-31 20:16:31,532] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:31,566] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:16:31,577] {logging_mixin.py:109} INFO - [2022-05-31 20:16:31,577] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:16:31,596] {logging_mixin.py:109} INFO - [2022-05-31 20:16:31,596] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:16:31.596396+00:00
+[2022-05-31 20:16:31,610] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-05-31 20:17:02,043] {processor.py:163} INFO - Started process (PID=1089) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:02,046] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:17:02,047] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,047] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:02,121] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:02,133] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,133] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:02,157] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,157] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:17:02.156712+00:00
+[2022-05-31 20:17:02,184] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.147 seconds
+[2022-05-31 20:17:32,332] {processor.py:163} INFO - Started process (PID=1127) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:32,335] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:17:32,337] {logging_mixin.py:109} INFO - [2022-05-31 20:17:32,336] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:32,377] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:17:32,393] {logging_mixin.py:109} INFO - [2022-05-31 20:17:32,393] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:32,417] {logging_mixin.py:109} INFO - [2022-05-31 20:17:32,417] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:17:32.417343+00:00
+[2022-05-31 20:17:32,428] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.103 seconds
+[2022-05-31 20:18:02,672] {processor.py:163} INFO - Started process (PID=1166) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:02,675] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:18:02,676] {logging_mixin.py:109} INFO - [2022-05-31 20:18:02,676] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:02,714] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:02,727] {logging_mixin.py:109} INFO - [2022-05-31 20:18:02,727] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:02,745] {logging_mixin.py:109} INFO - [2022-05-31 20:18:02,745] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:18:02.745043+00:00
+[2022-05-31 20:18:02,759] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.091 seconds
+[2022-05-31 20:18:33,318] {processor.py:163} INFO - Started process (PID=1204) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:33,324] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:18:33,326] {logging_mixin.py:109} INFO - [2022-05-31 20:18:33,326] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:33,373] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:18:33,386] {logging_mixin.py:109} INFO - [2022-05-31 20:18:33,386] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:33,408] {logging_mixin.py:109} INFO - [2022-05-31 20:18:33,406] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:18:33.404140+00:00
+[2022-05-31 20:18:33,422] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.107 seconds
+[2022-05-31 20:19:03,768] {processor.py:163} INFO - Started process (PID=1242) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:03,770] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:19:03,771] {logging_mixin.py:109} INFO - [2022-05-31 20:19:03,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:03,832] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:03,850] {logging_mixin.py:109} INFO - [2022-05-31 20:19:03,850] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:03,869] {logging_mixin.py:109} INFO - [2022-05-31 20:19:03,869] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:19:03.869223+00:00
+[2022-05-31 20:19:03,882] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2022-05-31 20:19:34,650] {processor.py:163} INFO - Started process (PID=1281) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:34,652] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:19:34,654] {logging_mixin.py:109} INFO - [2022-05-31 20:19:34,653] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:34,691] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:19:34,703] {logging_mixin.py:109} INFO - [2022-05-31 20:19:34,702] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:34,723] {logging_mixin.py:109} INFO - [2022-05-31 20:19:34,723] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:19:34.722761+00:00
+[2022-05-31 20:19:34,734] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.088 seconds
+[2022-05-31 20:20:06,150] {processor.py:163} INFO - Started process (PID=1321) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:06,153] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:20:06,154] {logging_mixin.py:109} INFO - [2022-05-31 20:20:06,154] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:06,235] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:06,251] {logging_mixin.py:109} INFO - [2022-05-31 20:20:06,251] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:06,290] {logging_mixin.py:109} INFO - [2022-05-31 20:20:06,290] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:20:06.289791+00:00
+[2022-05-31 20:20:06,300] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.154 seconds
+[2022-05-31 20:20:37,705] {processor.py:163} INFO - Started process (PID=1361) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:37,708] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:20:37,710] {logging_mixin.py:109} INFO - [2022-05-31 20:20:37,710] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:37,750] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:20:37,762] {logging_mixin.py:109} INFO - [2022-05-31 20:20:37,761] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:37,790] {logging_mixin.py:109} INFO - [2022-05-31 20:20:37,788] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:20:37.788319+00:00
+[2022-05-31 20:20:37,862] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.164 seconds
+[2022-05-31 20:21:09,614] {processor.py:163} INFO - Started process (PID=1400) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:09,616] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:21:09,618] {logging_mixin.py:109} INFO - [2022-05-31 20:21:09,618] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:09,652] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:09,664] {logging_mixin.py:109} INFO - [2022-05-31 20:21:09,664] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:09,685] {logging_mixin.py:109} INFO - [2022-05-31 20:21:09,685] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:21:09.684864+00:00
+[2022-05-31 20:21:09,695] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-05-31 20:21:41,059] {processor.py:163} INFO - Started process (PID=1439) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:41,061] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:21:41,062] {logging_mixin.py:109} INFO - [2022-05-31 20:21:41,062] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:41,099] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:21:41,112] {logging_mixin.py:109} INFO - [2022-05-31 20:21:41,112] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:41,130] {logging_mixin.py:109} INFO - [2022-05-31 20:21:41,130] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:21:41.129949+00:00
+[2022-05-31 20:21:41,142] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.087 seconds
+[2022-05-31 20:22:11,948] {processor.py:163} INFO - Started process (PID=1478) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:11,951] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:22:11,952] {logging_mixin.py:109} INFO - [2022-05-31 20:22:11,952] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:11,988] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:12,001] {logging_mixin.py:109} INFO - [2022-05-31 20:22:12,001] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:12,020] {logging_mixin.py:109} INFO - [2022-05-31 20:22:12,020] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:22:12.019702+00:00
+[2022-05-31 20:22:12,076] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.131 seconds
+[2022-05-31 20:22:43,071] {processor.py:163} INFO - Started process (PID=1517) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:43,074] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:22:43,076] {logging_mixin.py:109} INFO - [2022-05-31 20:22:43,076] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:43,133] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:22:43,150] {logging_mixin.py:109} INFO - [2022-05-31 20:22:43,150] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:43,174] {logging_mixin.py:109} INFO - [2022-05-31 20:22:43,174] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:22:43.173756+00:00
+[2022-05-31 20:22:43,189] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.121 seconds
+[2022-05-31 20:23:14,645] {processor.py:163} INFO - Started process (PID=1557) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:14,647] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:23:14,649] {logging_mixin.py:109} INFO - [2022-05-31 20:23:14,648] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:14,700] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:14,720] {logging_mixin.py:109} INFO - [2022-05-31 20:23:14,720] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:14,750] {logging_mixin.py:109} INFO - [2022-05-31 20:23:14,749] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:23:14.749191+00:00
+[2022-05-31 20:23:14,765] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.124 seconds
+[2022-05-31 20:23:45,580] {processor.py:163} INFO - Started process (PID=1597) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:45,581] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:23:45,582] {logging_mixin.py:109} INFO - [2022-05-31 20:23:45,582] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:45,617] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:23:45,628] {logging_mixin.py:109} INFO - [2022-05-31 20:23:45,628] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:45,646] {logging_mixin.py:109} INFO - [2022-05-31 20:23:45,646] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:23:45.646172+00:00
+[2022-05-31 20:23:45,656] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.080 seconds
+[2022-05-31 20:24:16,657] {processor.py:163} INFO - Started process (PID=1635) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:16,661] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:24:16,662] {logging_mixin.py:109} INFO - [2022-05-31 20:24:16,662] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:16,702] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:16,716] {logging_mixin.py:109} INFO - [2022-05-31 20:24:16,715] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:16,745] {logging_mixin.py:109} INFO - [2022-05-31 20:24:16,744] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:24:16.743808+00:00
+[2022-05-31 20:24:16,762] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.117 seconds
+[2022-05-31 20:24:47,859] {processor.py:163} INFO - Started process (PID=1674) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:47,861] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:24:47,862] {logging_mixin.py:109} INFO - [2022-05-31 20:24:47,862] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:47,881] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:24:47,894] {logging_mixin.py:109} INFO - [2022-05-31 20:24:47,894] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:47,938] {logging_mixin.py:109} INFO - [2022-05-31 20:24:47,938] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:24:47.937785+00:00
+[2022-05-31 20:24:47,949] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2022-05-31 20:25:19,268] {processor.py:163} INFO - Started process (PID=1714) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:19,271] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:25:19,273] {logging_mixin.py:109} INFO - [2022-05-31 20:25:19,272] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:19,316] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:19,332] {logging_mixin.py:109} INFO - [2022-05-31 20:25:19,331] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:19,354] {logging_mixin.py:109} INFO - [2022-05-31 20:25:19,354] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:25:19.354066+00:00
+[2022-05-31 20:25:19,371] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.106 seconds
+[2022-05-31 20:25:50,520] {processor.py:163} INFO - Started process (PID=1753) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:50,522] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:25:50,524] {logging_mixin.py:109} INFO - [2022-05-31 20:25:50,523] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:50,560] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:25:50,575] {logging_mixin.py:109} INFO - [2022-05-31 20:25:50,574] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:50,596] {logging_mixin.py:109} INFO - [2022-05-31 20:25:50,596] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:25:50.596255+00:00
+[2022-05-31 20:25:50,610] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.094 seconds
+[2022-05-31 20:26:21,839] {processor.py:163} INFO - Started process (PID=1792) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:21,842] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:26:21,843] {logging_mixin.py:109} INFO - [2022-05-31 20:26:21,843] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:21,878] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:21,889] {logging_mixin.py:109} INFO - [2022-05-31 20:26:21,889] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:21,908] {logging_mixin.py:109} INFO - [2022-05-31 20:26:21,908] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:26:21.908412+00:00
+[2022-05-31 20:26:21,919] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-05-31 20:26:53,124] {processor.py:163} INFO - Started process (PID=1832) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:53,126] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:26:53,128] {logging_mixin.py:109} INFO - [2022-05-31 20:26:53,127] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:53,178] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:26:53,198] {logging_mixin.py:109} INFO - [2022-05-31 20:26:53,198] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:53,228] {logging_mixin.py:109} INFO - [2022-05-31 20:26:53,228] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:26:53.228143+00:00
+[2022-05-31 20:26:53,242] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.123 seconds
+[2022-05-31 20:27:24,282] {processor.py:163} INFO - Started process (PID=1871) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:24,284] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:27:24,286] {logging_mixin.py:109} INFO - [2022-05-31 20:27:24,286] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:24,320] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:24,331] {logging_mixin.py:109} INFO - [2022-05-31 20:27:24,331] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:24,351] {logging_mixin.py:109} INFO - [2022-05-31 20:27:24,351] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:27:24.351049+00:00
+[2022-05-31 20:27:24,368] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.089 seconds
+[2022-05-31 20:27:55,389] {processor.py:163} INFO - Started process (PID=1910) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:55,392] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:27:55,396] {logging_mixin.py:109} INFO - [2022-05-31 20:27:55,396] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:55,441] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:27:55,461] {logging_mixin.py:109} INFO - [2022-05-31 20:27:55,461] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:55,482] {logging_mixin.py:109} INFO - [2022-05-31 20:27:55,482] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:27:55.482178+00:00
+[2022-05-31 20:27:55,493] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.111 seconds
+[2022-05-31 20:28:26,278] {processor.py:163} INFO - Started process (PID=1949) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:26,281] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:28:26,284] {logging_mixin.py:109} INFO - [2022-05-31 20:28:26,283] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:26,336] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:26,350] {logging_mixin.py:109} INFO - [2022-05-31 20:28:26,350] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:26,378] {logging_mixin.py:109} INFO - [2022-05-31 20:28:26,378] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:28:26.378057+00:00
+[2022-05-31 20:28:26,399] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.126 seconds
+[2022-05-31 20:28:56,946] {processor.py:163} INFO - Started process (PID=1988) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:56,948] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:28:56,949] {logging_mixin.py:109} INFO - [2022-05-31 20:28:56,949] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:56,983] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:28:56,995] {logging_mixin.py:109} INFO - [2022-05-31 20:28:56,995] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:57,014] {logging_mixin.py:109} INFO - [2022-05-31 20:28:57,013] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:28:57.013548+00:00
+[2022-05-31 20:28:57,024] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.082 seconds
+[2022-05-31 20:29:28,429] {processor.py:163} INFO - Started process (PID=2027) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:28,431] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:29:28,432] {logging_mixin.py:109} INFO - [2022-05-31 20:29:28,432] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:28,483] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:28,499] {logging_mixin.py:109} INFO - [2022-05-31 20:29:28,499] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:29:28,525] {logging_mixin.py:109} INFO - [2022-05-31 20:29:28,525] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:29:28.524682+00:00
+[2022-05-31 20:29:28,540] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.116 seconds
+[2022-05-31 20:29:59,485] {processor.py:163} INFO - Started process (PID=2066) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:59,487] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:29:59,491] {logging_mixin.py:109} INFO - [2022-05-31 20:29:59,490] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:59,541] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:29:59,556] {logging_mixin.py:109} INFO - [2022-05-31 20:29:59,555] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:29:59,585] {logging_mixin.py:109} INFO - [2022-05-31 20:29:59,585] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:29:59.584340+00:00
+[2022-05-31 20:29:59,601] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.124 seconds
+[2022-05-31 20:30:30,640] {processor.py:163} INFO - Started process (PID=2105) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:30:30,652] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:30:30,668] {logging_mixin.py:109} INFO - [2022-05-31 20:30:30,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:30:30,722] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:30:30,748] {logging_mixin.py:109} INFO - [2022-05-31 20:30:30,748] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:30:30,779] {logging_mixin.py:109} INFO - [2022-05-31 20:30:30,779] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:30:30.778996+00:00
+[2022-05-31 20:30:30,862] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.225 seconds
+[2022-05-31 20:31:02,515] {processor.py:163} INFO - Started process (PID=2145) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:02,519] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:31:02,521] {logging_mixin.py:109} INFO - [2022-05-31 20:31:02,521] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:02,565] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:02,584] {logging_mixin.py:109} INFO - [2022-05-31 20:31:02,584] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:02,621] {logging_mixin.py:109} INFO - [2022-05-31 20:31:02,621] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:31:02.620752+00:00
+[2022-05-31 20:31:02,634] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.124 seconds
+[2022-05-31 20:31:34,081] {processor.py:163} INFO - Started process (PID=2184) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:34,083] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:31:34,085] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,085] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:34,133] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:31:34,148] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,147] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:34,170] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,170] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:31:34.169469+00:00
+[2022-05-31 20:31:34,187] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.111 seconds
+[2022-05-31 20:32:05,102] {processor.py:163} INFO - Started process (PID=2223) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:05,105] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:32:05,107] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,107] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:05,154] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:05,180] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,180] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:05,205] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,205] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:32:05.204616+00:00
+[2022-05-31 20:32:05,216] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2022-05-31 20:32:36,444] {processor.py:163} INFO - Started process (PID=2262) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:36,446] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:32:36,448] {logging_mixin.py:109} INFO - [2022-05-31 20:32:36,448] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:36,493] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:32:36,505] {logging_mixin.py:109} INFO - [2022-05-31 20:32:36,505] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:36,527] {logging_mixin.py:109} INFO - [2022-05-31 20:32:36,527] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:32:36.527432+00:00
+[2022-05-31 20:32:36,548] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.108 seconds
+[2022-05-31 20:33:07,835] {processor.py:163} INFO - Started process (PID=2301) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:07,837] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:33:07,839] {logging_mixin.py:109} INFO - [2022-05-31 20:33:07,839] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:07,875] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:07,887] {logging_mixin.py:109} INFO - [2022-05-31 20:33:07,887] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:07,911] {logging_mixin.py:109} INFO - [2022-05-31 20:33:07,911] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:33:07.910984+00:00
+[2022-05-31 20:33:07,926] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.095 seconds
+[2022-05-31 20:33:38,033] {processor.py:163} INFO - Started process (PID=2339) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:38,034] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:33:38,036] {logging_mixin.py:109} INFO - [2022-05-31 20:33:38,036] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:38,078] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:33:38,089] {logging_mixin.py:109} INFO - [2022-05-31 20:33:38,089] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:38,107] {logging_mixin.py:109} INFO - [2022-05-31 20:33:38,107] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:33:38.107523+00:00
+[2022-05-31 20:33:38,119] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.090 seconds
+[2022-05-31 20:34:09,480] {processor.py:163} INFO - Started process (PID=2378) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:09,482] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:34:09,484] {logging_mixin.py:109} INFO - [2022-05-31 20:34:09,483] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:09,518] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:09,529] {logging_mixin.py:109} INFO - [2022-05-31 20:34:09,529] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:09,547] {logging_mixin.py:109} INFO - [2022-05-31 20:34:09,547] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:34:09.547172+00:00
+[2022-05-31 20:34:09,558] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.081 seconds
+[2022-05-31 20:34:40,221] {processor.py:163} INFO - Started process (PID=2417) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:40,224] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:34:40,226] {logging_mixin.py:109} INFO - [2022-05-31 20:34:40,226] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:40,274] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:34:40,289] {logging_mixin.py:109} INFO - [2022-05-31 20:34:40,289] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:40,311] {logging_mixin.py:109} INFO - [2022-05-31 20:34:40,311] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:34:40.311307+00:00
+[2022-05-31 20:34:40,325] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.110 seconds
+[2022-05-31 20:35:11,711] {processor.py:163} INFO - Started process (PID=2457) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:11,713] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:35:11,715] {logging_mixin.py:109} INFO - [2022-05-31 20:35:11,715] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:11,753] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:11,768] {logging_mixin.py:109} INFO - [2022-05-31 20:35:11,768] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:11,791] {logging_mixin.py:109} INFO - [2022-05-31 20:35:11,791] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:35:11.790999+00:00
+[2022-05-31 20:35:11,806] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.099 seconds
+[2022-05-31 20:35:42,649] {processor.py:163} INFO - Started process (PID=2495) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:42,651] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:35:42,653] {logging_mixin.py:109} INFO - [2022-05-31 20:35:42,653] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:42,693] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:35:42,729] {logging_mixin.py:109} INFO - [2022-05-31 20:35:42,728] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:42,752] {logging_mixin.py:109} INFO - [2022-05-31 20:35:42,751] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:35:42.751625+00:00
+[2022-05-31 20:35:42,838] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.195 seconds
+[2022-05-31 20:36:13,217] {processor.py:163} INFO - Started process (PID=2534) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:13,219] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:36:13,220] {logging_mixin.py:109} INFO - [2022-05-31 20:36:13,220] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:13,252] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:13,263] {logging_mixin.py:109} INFO - [2022-05-31 20:36:13,263] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:13,281] {logging_mixin.py:109} INFO - [2022-05-31 20:36:13,281] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:36:13.280859+00:00
+[2022-05-31 20:36:13,293] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.079 seconds
+[2022-05-31 20:36:44,645] {processor.py:163} INFO - Started process (PID=2573) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:44,647] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:36:44,656] {logging_mixin.py:109} INFO - [2022-05-31 20:36:44,655] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:44,704] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:36:44,718] {logging_mixin.py:109} INFO - [2022-05-31 20:36:44,718] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:44,741] {logging_mixin.py:109} INFO - [2022-05-31 20:36:44,741] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:36:44.740715+00:00
+[2022-05-31 20:36:44,755] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2022-05-31 20:37:16,387] {processor.py:163} INFO - Started process (PID=2614) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:16,396] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:37:16,399] {logging_mixin.py:109} INFO - [2022-05-31 20:37:16,398] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:16,438] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:16,450] {logging_mixin.py:109} INFO - [2022-05-31 20:37:16,450] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:16,478] {logging_mixin.py:109} INFO - [2022-05-31 20:37:16,478] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:37:16.477964+00:00
+[2022-05-31 20:37:16,505] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2022-05-31 20:37:47,700] {processor.py:163} INFO - Started process (PID=2654) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:47,702] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:37:47,704] {logging_mixin.py:109} INFO - [2022-05-31 20:37:47,704] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:47,739] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:37:47,751] {logging_mixin.py:109} INFO - [2022-05-31 20:37:47,751] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:47,769] {logging_mixin.py:109} INFO - [2022-05-31 20:37:47,769] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:37:47.769087+00:00
+[2022-05-31 20:37:47,781] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.085 seconds
+[2022-05-31 20:38:18,694] {processor.py:163} INFO - Started process (PID=2693) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:18,697] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:38:18,701] {logging_mixin.py:109} INFO - [2022-05-31 20:38:18,700] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:18,754] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:18,770] {logging_mixin.py:109} INFO - [2022-05-31 20:38:18,770] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:18,804] {logging_mixin.py:109} INFO - [2022-05-31 20:38:18,804] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:38:18.803994+00:00
+[2022-05-31 20:38:18,859] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.175 seconds
+[2022-05-31 20:38:49,924] {processor.py:163} INFO - Started process (PID=2732) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:49,926] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:38:49,927] {logging_mixin.py:109} INFO - [2022-05-31 20:38:49,927] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:49,999] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:38:50,011] {logging_mixin.py:109} INFO - [2022-05-31 20:38:50,010] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:50,031] {logging_mixin.py:109} INFO - [2022-05-31 20:38:50,031] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:38:50.030686+00:00
+[2022-05-31 20:38:50,042] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2022-05-31 20:39:21,363] {processor.py:163} INFO - Started process (PID=2771) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:21,365] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:39:21,367] {logging_mixin.py:109} INFO - [2022-05-31 20:39:21,367] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:21,407] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:21,423] {logging_mixin.py:109} INFO - [2022-05-31 20:39:21,423] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:21,446] {logging_mixin.py:109} INFO - [2022-05-31 20:39:21,446] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:39:21.445991+00:00
+[2022-05-31 20:39:21,458] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.098 seconds
+[2022-05-31 20:39:51,992] {processor.py:163} INFO - Started process (PID=2810) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:51,995] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:39:51,997] {logging_mixin.py:109} INFO - [2022-05-31 20:39:51,997] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:52,042] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:39:52,062] {logging_mixin.py:109} INFO - [2022-05-31 20:39:52,061] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:52,087] {logging_mixin.py:109} INFO - [2022-05-31 20:39:52,087] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:39:52.087093+00:00
+[2022-05-31 20:39:52,105] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2022-05-31 20:40:23,514] {processor.py:163} INFO - Started process (PID=2849) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:23,516] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:40:23,517] {logging_mixin.py:109} INFO - [2022-05-31 20:40:23,517] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:23,554] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:23,565] {logging_mixin.py:109} INFO - [2022-05-31 20:40:23,565] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:23,583] {logging_mixin.py:109} INFO - [2022-05-31 20:40:23,583] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:40:23.583325+00:00
+[2022-05-31 20:40:23,594] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.084 seconds
+[2022-05-31 20:40:54,622] {processor.py:163} INFO - Started process (PID=2888) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:54,626] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:40:54,628] {logging_mixin.py:109} INFO - [2022-05-31 20:40:54,628] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:54,667] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:40:54,680] {logging_mixin.py:109} INFO - [2022-05-31 20:40:54,680] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:54,702] {logging_mixin.py:109} INFO - [2022-05-31 20:40:54,702] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:40:54.701888+00:00
+[2022-05-31 20:40:54,715] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.099 seconds
+[2022-05-31 20:41:25,820] {processor.py:163} INFO - Started process (PID=2927) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:25,823] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:41:25,825] {logging_mixin.py:109} INFO - [2022-05-31 20:41:25,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:25,873] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:25,885] {logging_mixin.py:109} INFO - [2022-05-31 20:41:25,885] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:25,908] {logging_mixin.py:109} INFO - [2022-05-31 20:41:25,908] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:41:25.907969+00:00
+[2022-05-31 20:41:25,919] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.106 seconds
+[2022-05-31 20:41:57,854] {processor.py:163} INFO - Started process (PID=2971) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:57,856] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:41:57,859] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,858] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:57,913] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:41:57,932] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,932] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:57,956] {logging_mixin.py:109} INFO - [2022-05-31 20:41:57,956] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:41:57.955761+00:00
+[2022-05-31 20:41:57,973] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.139 seconds
+[2022-05-31 20:42:29,125] {processor.py:163} INFO - Started process (PID=3010) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:42:29,127] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:42:29,128] {logging_mixin.py:109} INFO - [2022-05-31 20:42:29,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:42:29,164] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:42:29,176] {logging_mixin.py:109} INFO - [2022-05-31 20:42:29,176] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:42:29,195] {logging_mixin.py:109} INFO - [2022-05-31 20:42:29,195] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:42:29.195263+00:00
+[2022-05-31 20:42:29,207] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.086 seconds
+[2022-05-31 20:43:00,531] {processor.py:163} INFO - Started process (PID=3050) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:00,541] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:43:00,542] {logging_mixin.py:109} INFO - [2022-05-31 20:43:00,542] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:00,590] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:00,603] {logging_mixin.py:109} INFO - [2022-05-31 20:43:00,603] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:43:00,622] {logging_mixin.py:109} INFO - [2022-05-31 20:43:00,621] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:43:00.621628+00:00
+[2022-05-31 20:43:00,638] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.110 seconds
+[2022-05-31 20:43:32,398] {processor.py:163} INFO - Started process (PID=3093) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:32,401] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:43:32,404] {logging_mixin.py:109} INFO - [2022-05-31 20:43:32,403] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:32,442] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:43:32,461] {logging_mixin.py:109} INFO - [2022-05-31 20:43:32,461] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:43:32,492] {logging_mixin.py:109} INFO - [2022-05-31 20:43:32,491] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:43:32.491629+00:00
+[2022-05-31 20:43:32,533] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.140 seconds
+[2022-05-31 20:44:03,328] {processor.py:163} INFO - Started process (PID=3132) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:03,330] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:44:03,331] {logging_mixin.py:109} INFO - [2022-05-31 20:44:03,331] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:03,368] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:03,379] {logging_mixin.py:109} INFO - [2022-05-31 20:44:03,379] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:03,402] {logging_mixin.py:109} INFO - [2022-05-31 20:44:03,401] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:44:03.401599+00:00
+[2022-05-31 20:44:03,422] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.098 seconds
+[2022-05-31 20:44:34,152] {processor.py:163} INFO - Started process (PID=3172) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:34,156] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:44:34,161] {logging_mixin.py:109} INFO - [2022-05-31 20:44:34,161] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:34,213] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:44:34,227] {logging_mixin.py:109} INFO - [2022-05-31 20:44:34,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:34,262] {logging_mixin.py:109} INFO - [2022-05-31 20:44:34,262] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:44:34.261915+00:00
+[2022-05-31 20:44:34,284] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.136 seconds
+[2022-05-31 20:45:06,872] {processor.py:163} INFO - Started process (PID=3211) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:06,876] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:45:06,881] {logging_mixin.py:109} INFO - [2022-05-31 20:45:06,881] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:06,931] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:06,944] {logging_mixin.py:109} INFO - [2022-05-31 20:45:06,944] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:06,968] {logging_mixin.py:109} INFO - [2022-05-31 20:45:06,968] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:45:06.967718+00:00
+[2022-05-31 20:45:07,070] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.204 seconds
+[2022-05-31 20:45:37,420] {processor.py:163} INFO - Started process (PID=3250) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:37,423] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:45:37,425] {logging_mixin.py:109} INFO - [2022-05-31 20:45:37,424] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:37,472] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:45:37,493] {logging_mixin.py:109} INFO - [2022-05-31 20:45:37,492] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:37,546] {logging_mixin.py:109} INFO - [2022-05-31 20:45:37,546] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:45:37.546184+00:00
+[2022-05-31 20:45:37,671] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.259 seconds
+[2022-05-31 20:46:09,135] {processor.py:163} INFO - Started process (PID=3290) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:09,138] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:46:09,146] {logging_mixin.py:109} INFO - [2022-05-31 20:46:09,146] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:09,196] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:09,223] {logging_mixin.py:109} INFO - [2022-05-31 20:46:09,223] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:09,345] {logging_mixin.py:109} INFO - [2022-05-31 20:46:09,345] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:46:09.344782+00:00
+[2022-05-31 20:46:09,358] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.230 seconds
+[2022-05-31 20:46:40,008] {processor.py:163} INFO - Started process (PID=3329) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:40,010] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:46:40,011] {logging_mixin.py:109} INFO - [2022-05-31 20:46:40,011] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:40,054] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:46:40,067] {logging_mixin.py:109} INFO - [2022-05-31 20:46:40,067] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:40,179] {logging_mixin.py:109} INFO - [2022-05-31 20:46:40,179] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:46:40.179498+00:00
+[2022-05-31 20:46:40,190] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.186 seconds
+[2022-05-31 20:47:12,481] {processor.py:163} INFO - Started process (PID=3368) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:12,483] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:47:12,485] {logging_mixin.py:109} INFO - [2022-05-31 20:47:12,485] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:12,530] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:12,544] {logging_mixin.py:109} INFO - [2022-05-31 20:47:12,544] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:12,655] {logging_mixin.py:109} INFO - [2022-05-31 20:47:12,655] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:47:12.655350+00:00
+[2022-05-31 20:47:12,846] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.370 seconds
+[2022-05-31 20:47:43,925] {processor.py:163} INFO - Started process (PID=3407) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:43,931] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:47:43,934] {logging_mixin.py:109} INFO - [2022-05-31 20:47:43,934] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:44,014] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:47:44,160] {logging_mixin.py:109} INFO - [2022-05-31 20:47:44,157] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:44,200] {logging_mixin.py:109} INFO - [2022-05-31 20:47:44,200] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:47:44.200324+00:00
+[2022-05-31 20:47:44,566] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.646 seconds
+[2022-05-31 20:48:14,820] {processor.py:163} INFO - Started process (PID=3446) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:14,826] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:48:14,829] {logging_mixin.py:109} INFO - [2022-05-31 20:48:14,829] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:14,903] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:15,007] {logging_mixin.py:109} INFO - [2022-05-31 20:48:15,007] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:15,026] {logging_mixin.py:109} INFO - [2022-05-31 20:48:15,026] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:48:15.026009+00:00
+[2022-05-31 20:48:15,038] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.227 seconds
+[2022-05-31 20:48:45,324] {processor.py:163} INFO - Started process (PID=3485) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:45,330] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:48:45,335] {logging_mixin.py:109} INFO - [2022-05-31 20:48:45,335] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:45,372] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:48:45,475] {logging_mixin.py:109} INFO - [2022-05-31 20:48:45,475] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:45,492] {logging_mixin.py:109} INFO - [2022-05-31 20:48:45,492] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:48:45.492496+00:00
+[2022-05-31 20:48:45,503] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.182 seconds
+[2022-05-31 20:49:16,094] {processor.py:163} INFO - Started process (PID=3524) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:16,097] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:49:16,099] {logging_mixin.py:109} INFO - [2022-05-31 20:49:16,099] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:16,249] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:16,270] {logging_mixin.py:109} INFO - [2022-05-31 20:49:16,270] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:16,287] {logging_mixin.py:109} INFO - [2022-05-31 20:49:16,287] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:49:16.287342+00:00
+[2022-05-31 20:49:16,298] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.212 seconds
+[2022-05-31 20:49:48,043] {processor.py:163} INFO - Started process (PID=3563) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:48,046] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:49:48,047] {logging_mixin.py:109} INFO - [2022-05-31 20:49:48,047] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:48,168] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:49:48,179] {logging_mixin.py:109} INFO - [2022-05-31 20:49:48,179] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:48,195] {logging_mixin.py:109} INFO - [2022-05-31 20:49:48,195] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:49:48.195247+00:00
+[2022-05-31 20:49:48,205] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.166 seconds
+[2022-05-31 20:50:18,612] {processor.py:163} INFO - Started process (PID=3602) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:18,614] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:50:18,616] {logging_mixin.py:109} INFO - [2022-05-31 20:50:18,616] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:18,741] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:18,769] {logging_mixin.py:109} INFO - [2022-05-31 20:50:18,769] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:18,805] {logging_mixin.py:109} INFO - [2022-05-31 20:50:18,805] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:50:18.804874+00:00
+[2022-05-31 20:50:18,825] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.220 seconds
+[2022-05-31 20:50:51,428] {processor.py:163} INFO - Started process (PID=3642) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:51,433] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:50:51,436] {logging_mixin.py:109} INFO - [2022-05-31 20:50:51,436] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:51,641] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:50:51,654] {logging_mixin.py:109} INFO - [2022-05-31 20:50:51,654] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:51,672] {logging_mixin.py:109} INFO - [2022-05-31 20:50:51,672] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:50:51.671716+00:00
+[2022-05-31 20:50:51,683] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.265 seconds
+[2022-05-31 20:51:21,923] {processor.py:163} INFO - Started process (PID=3681) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:21,925] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:51:21,927] {logging_mixin.py:109} INFO - [2022-05-31 20:51:21,927] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:21,968] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:21,994] {logging_mixin.py:109} INFO - [2022-05-31 20:51:21,994] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:22,148] {logging_mixin.py:109} INFO - [2022-05-31 20:51:22,148] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:51:22.147688+00:00
+[2022-05-31 20:51:22,166] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.246 seconds
+[2022-05-31 20:51:53,125] {processor.py:163} INFO - Started process (PID=3720) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:53,127] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:51:53,129] {logging_mixin.py:109} INFO - [2022-05-31 20:51:53,128] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:53,172] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:51:53,187] {logging_mixin.py:109} INFO - [2022-05-31 20:51:53,187] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:53,218] {logging_mixin.py:109} INFO - [2022-05-31 20:51:53,217] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:51:53.217550+00:00
+[2022-05-31 20:51:53,232] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.119 seconds
+[2022-05-31 20:52:24,332] {processor.py:163} INFO - Started process (PID=3759) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:24,333] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:52:24,335] {logging_mixin.py:109} INFO - [2022-05-31 20:52:24,335] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:24,395] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:24,412] {logging_mixin.py:109} INFO - [2022-05-31 20:52:24,412] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:24,473] {logging_mixin.py:109} INFO - [2022-05-31 20:52:24,473] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:52:24.473217+00:00
+[2022-05-31 20:52:24,660] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.332 seconds
+[2022-05-31 20:52:54,843] {processor.py:163} INFO - Started process (PID=3798) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:54,845] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:52:54,847] {logging_mixin.py:109} INFO - [2022-05-31 20:52:54,846] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:54,907] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:52:54,927] {logging_mixin.py:109} INFO - [2022-05-31 20:52:54,927] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:54,951] {logging_mixin.py:109} INFO - [2022-05-31 20:52:54,951] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:52:54.951431+00:00
+[2022-05-31 20:52:54,963] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.127 seconds
+[2022-05-31 20:53:25,790] {processor.py:163} INFO - Started process (PID=3837) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:25,793] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:53:25,796] {logging_mixin.py:109} INFO - [2022-05-31 20:53:25,796] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:25,843] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:25,861] {logging_mixin.py:109} INFO - [2022-05-31 20:53:25,861] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:25,885] {logging_mixin.py:109} INFO - [2022-05-31 20:53:25,885] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:53:25.884805+00:00
+[2022-05-31 20:53:25,903] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.122 seconds
+[2022-05-31 20:53:56,638] {processor.py:163} INFO - Started process (PID=3876) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:56,641] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:53:56,643] {logging_mixin.py:109} INFO - [2022-05-31 20:53:56,643] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:56,691] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:53:56,710] {logging_mixin.py:109} INFO - [2022-05-31 20:53:56,710] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:56,752] {logging_mixin.py:109} INFO - [2022-05-31 20:53:56,752] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:53:56.752139+00:00
+[2022-05-31 20:53:56,778] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.147 seconds
+[2022-05-31 20:54:28,533] {processor.py:163} INFO - Started process (PID=3915) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:28,540] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:54:28,549] {logging_mixin.py:109} INFO - [2022-05-31 20:54:28,548] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:28,625] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:28,651] {logging_mixin.py:109} INFO - [2022-05-31 20:54:28,651] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:54:28,685] {logging_mixin.py:109} INFO - [2022-05-31 20:54:28,685] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:54:28.685148+00:00
+[2022-05-31 20:54:29,169] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.646 seconds
+[2022-05-31 20:54:59,238] {processor.py:163} INFO - Started process (PID=3954) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:59,241] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:54:59,242] {logging_mixin.py:109} INFO - [2022-05-31 20:54:59,242] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:59,284] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:54:59,333] {logging_mixin.py:109} INFO - [2022-05-31 20:54:59,332] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:54:59,364] {logging_mixin.py:109} INFO - [2022-05-31 20:54:59,364] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:54:59.363635+00:00
+[2022-05-31 20:54:59,377] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2022-05-31 20:55:29,721] {processor.py:163} INFO - Started process (PID=3993) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:55:29,723] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:55:29,724] {logging_mixin.py:109} INFO - [2022-05-31 20:55:29,724] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:55:29,772] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:55:29,789] {logging_mixin.py:109} INFO - [2022-05-31 20:55:29,789] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:55:29,809] {logging_mixin.py:109} INFO - [2022-05-31 20:55:29,809] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:55:29.809261+00:00
+[2022-05-31 20:55:29,821] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.104 seconds
+[2022-05-31 20:56:00,736] {processor.py:163} INFO - Started process (PID=4032) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:00,741] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:56:00,745] {logging_mixin.py:109} INFO - [2022-05-31 20:56:00,745] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:00,796] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:00,809] {logging_mixin.py:109} INFO - [2022-05-31 20:56:00,809] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:56:00,830] {logging_mixin.py:109} INFO - [2022-05-31 20:56:00,830] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:56:00.829848+00:00
+[2022-05-31 20:56:00,881] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.153 seconds
+[2022-05-31 20:56:31,712] {processor.py:163} INFO - Started process (PID=4071) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:31,717] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:56:31,724] {logging_mixin.py:109} INFO - [2022-05-31 20:56:31,724] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:31,761] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:56:31,772] {logging_mixin.py:109} INFO - [2022-05-31 20:56:31,772] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:56:31,798] {logging_mixin.py:109} INFO - [2022-05-31 20:56:31,798] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:56:31.797799+00:00
+[2022-05-31 20:56:31,821] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.116 seconds
+[2022-05-31 20:57:02,902] {processor.py:163} INFO - Started process (PID=4110) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:02,904] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:57:02,906] {logging_mixin.py:109} INFO - [2022-05-31 20:57:02,906] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:02,944] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:02,989] {logging_mixin.py:109} INFO - [2022-05-31 20:57:02,989] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:03,016] {logging_mixin.py:109} INFO - [2022-05-31 20:57:03,016] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:57:03.015712+00:00
+[2022-05-31 20:57:03,081] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.186 seconds
+[2022-05-31 20:57:33,668] {processor.py:163} INFO - Started process (PID=4149) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:33,670] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:57:33,671] {logging_mixin.py:109} INFO - [2022-05-31 20:57:33,671] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:33,730] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:57:33,741] {logging_mixin.py:109} INFO - [2022-05-31 20:57:33,741] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:33,767] {logging_mixin.py:109} INFO - [2022-05-31 20:57:33,767] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:57:33.766855+00:00
+[2022-05-31 20:57:33,789] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.130 seconds
+[2022-05-31 20:58:04,747] {processor.py:163} INFO - Started process (PID=4188) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:04,751] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:58:04,753] {logging_mixin.py:109} INFO - [2022-05-31 20:58:04,753] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:04,802] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:04,818] {logging_mixin.py:109} INFO - [2022-05-31 20:58:04,818] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:04,845] {logging_mixin.py:109} INFO - [2022-05-31 20:58:04,844] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:58:04.844629+00:00
+[2022-05-31 20:58:04,859] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.120 seconds
+[2022-05-31 20:58:35,873] {processor.py:163} INFO - Started process (PID=4227) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:35,875] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:58:35,876] {logging_mixin.py:109} INFO - [2022-05-31 20:58:35,876] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:35,918] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:58:35,936] {logging_mixin.py:109} INFO - [2022-05-31 20:58:35,936] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:35,962] {logging_mixin.py:109} INFO - [2022-05-31 20:58:35,962] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:58:35.961621+00:00
+[2022-05-31 20:58:35,978] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2022-05-31 20:59:07,128] {processor.py:163} INFO - Started process (PID=4266) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:59:07,131] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-05-31 20:59:07,133] {logging_mixin.py:109} INFO - [2022-05-31 20:59:07,132] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:59:07,179] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-05-31 20:59:07,195] {logging_mixin.py:109} INFO - [2022-05-31 20:59:07,195] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:59:07,225] {logging_mixin.py:109} INFO - [2022-05-31 20:59:07,224] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-05-31T16:59:07.224192+00:00
+[2022-05-31 20:59:07,254] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.133 seconds

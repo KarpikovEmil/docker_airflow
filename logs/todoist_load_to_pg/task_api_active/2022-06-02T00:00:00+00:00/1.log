@@ -1,0 +1,25 @@
+[2022-06-03 00:00:01,663] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.task_api_active scheduled__2022-06-02T00:00:00+00:00 [queued]>
+[2022-06-03 00:00:01,674] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.task_api_active scheduled__2022-06-02T00:00:00+00:00 [queued]>
+[2022-06-03 00:00:01,675] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-03 00:00:01,679] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-03 00:00:01,680] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-03 00:00:01,694] {taskinstance.py:1264} INFO - Executing <Task(HttpSensor): task_api_active> on 2022-06-02 00:00:00+00:00
+[2022-06-03 00:00:01,699] {standard_task_runner.py:52} INFO - Started process 114 to run task
+[2022-06-03 00:00:01,704] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'task_api_active', 'scheduled__2022-06-02T00:00:00+00:00', '--job-id', '414', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmpn3nkb98o', '--error-file', '/tmp/tmp94bjkfvz']
+[2022-06-03 00:00:01,705] {standard_task_runner.py:77} INFO - Job 414: Subtask task_api_active
+[2022-06-03 00:00:01,767] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.task_api_active scheduled__2022-06-02T00:00:00+00:00 [running]> on host bd658c040114
+[2022-06-03 00:00:01,825] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=task_api_active
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-02T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-06-02T00:00:00+00:00
+[2022-06-03 00:00:01,827] {http.py:96} INFO - Poking: /projects
+[2022-06-03 00:00:01,840] {base.py:70} INFO - Using connection to: id: todo_conn. Host: https://api.todoist.com/rest/v1, Port: None, Schema: https, Login: , Password: ***, extra: {'authorization': '***'}
+[2022-06-03 00:00:01,844] {http.py:129} INFO - Sending 'GET' to url: https://api.todoist.com/rest/v1/projects
+[2022-06-03 00:00:02,614] {base.py:251} INFO - Success criteria met. Exiting.
+[2022-06-03 00:00:02,628] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=todoist_load_to_pg, task_id=task_api_active, execution_date=20220602T000000, start_date=20220603T000001, end_date=20220603T000002
+[2022-06-03 00:00:02,680] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-03 00:00:02,721] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

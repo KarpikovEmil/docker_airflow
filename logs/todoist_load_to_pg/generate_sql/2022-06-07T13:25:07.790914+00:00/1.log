@@ -1,0 +1,23 @@
+[2022-06-07 13:25:13,798] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.generate_sql manual__2022-06-07T13:25:07.790914+00:00 [queued]>
+[2022-06-07 13:25:13,812] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.generate_sql manual__2022-06-07T13:25:07.790914+00:00 [queued]>
+[2022-06-07 13:25:13,813] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-07 13:25:13,814] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-07 13:25:13,815] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-07 13:25:13,830] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): generate_sql> on 2022-06-07 13:25:07.790914+00:00
+[2022-06-07 13:25:13,835] {standard_task_runner.py:52} INFO - Started process 196 to run task
+[2022-06-07 13:25:13,842] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'generate_sql', 'manual__2022-06-07T13:25:07.790914+00:00', '--job-id', '448', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmpu8l754mp', '--error-file', '/tmp/tmpeqrewww6']
+[2022-06-07 13:25:13,844] {standard_task_runner.py:77} INFO - Job 448: Subtask generate_sql
+[2022-06-07 13:25:13,915] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.generate_sql manual__2022-06-07T13:25:07.790914+00:00 [running]> on host bd658c040114
+[2022-06-07 13:25:13,982] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=generate_sql
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-07T13:25:07.790914+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-07T13:25:07.790914+00:00
+[2022-06-07 13:25:13,984] {todoist_load_to_pg.py:38} INFO - dict_keys(['id', 'color', 'name', 'comment_count', 'shared', 'favorite', 'sync_id', 'inbox_project', 'url']), ключи
+[2022-06-07 13:25:13,985] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-07 13:25:14,001] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=todoist_load_to_pg, task_id=generate_sql, execution_date=20220607T132507, start_date=20220607T132513, end_date=20220607T132514
+[2022-06-07 13:25:14,052] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-07 13:25:14,087] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

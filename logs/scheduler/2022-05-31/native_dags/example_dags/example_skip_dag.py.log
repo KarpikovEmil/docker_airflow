@@ -1,0 +1,749 @@
+[2022-05-31 20:04:06,126] {processor.py:163} INFO - Started process (PID=120) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:06,129] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:04:06,131] {logging_mixin.py:109} INFO - [2022-05-31 20:04:06,131] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:06,188] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:06,210] {logging_mixin.py:109} INFO - [2022-05-31 20:04:06,210] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:06,240] {logging_mixin.py:109} INFO - [2022-05-31 20:04:06,240] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:04:06.239660+00:00
+[2022-05-31 20:04:06,258] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.141 seconds
+[2022-05-31 20:04:36,396] {processor.py:163} INFO - Started process (PID=158) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:36,398] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:04:36,399] {logging_mixin.py:109} INFO - [2022-05-31 20:04:36,399] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:36,435] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:04:36,448] {logging_mixin.py:109} INFO - [2022-05-31 20:04:36,447] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:04:36,466] {logging_mixin.py:109} INFO - [2022-05-31 20:04:36,466] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:04:36.466303+00:00
+[2022-05-31 20:04:36,480] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.087 seconds
+[2022-05-31 20:05:06,553] {processor.py:163} INFO - Started process (PID=196) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:06,555] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:05:06,558] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,558] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:06,626] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:06,638] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,638] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:06,658] {logging_mixin.py:109} INFO - [2022-05-31 20:05:06,658] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:05:06.658363+00:00
+[2022-05-31 20:05:06,671] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2022-05-31 20:05:37,821] {processor.py:163} INFO - Started process (PID=234) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:37,823] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:05:37,825] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,825] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:37,865] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:05:37,880] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,879] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:05:37,899] {logging_mixin.py:109} INFO - [2022-05-31 20:05:37,899] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:05:37.899161+00:00
+[2022-05-31 20:05:37,914] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds
+[2022-05-31 20:06:08,262] {processor.py:163} INFO - Started process (PID=273) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:08,264] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:06:08,266] {logging_mixin.py:109} INFO - [2022-05-31 20:06:08,266] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:08,344] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:08,368] {logging_mixin.py:109} INFO - [2022-05-31 20:06:08,368] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:08,392] {logging_mixin.py:109} INFO - [2022-05-31 20:06:08,392] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:06:08.392144+00:00
+[2022-05-31 20:06:08,545] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.289 seconds
+[2022-05-31 20:06:38,923] {processor.py:163} INFO - Started process (PID=312) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:38,926] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:06:38,928] {logging_mixin.py:109} INFO - [2022-05-31 20:06:38,928] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:38,983] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:06:38,996] {logging_mixin.py:109} INFO - [2022-05-31 20:06:38,996] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:06:39,014] {logging_mixin.py:109} INFO - [2022-05-31 20:06:39,014] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:06:39.014485+00:00
+[2022-05-31 20:06:39,025] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.112 seconds
+[2022-05-31 20:07:09,485] {processor.py:163} INFO - Started process (PID=351) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:09,487] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:07:09,488] {logging_mixin.py:109} INFO - [2022-05-31 20:07:09,488] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:09,525] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:09,540] {logging_mixin.py:109} INFO - [2022-05-31 20:07:09,540] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:09,559] {logging_mixin.py:109} INFO - [2022-05-31 20:07:09,559] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:07:09.559201+00:00
+[2022-05-31 20:07:09,572] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2022-05-31 20:07:39,938] {processor.py:163} INFO - Started process (PID=390) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:39,941] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:07:39,944] {logging_mixin.py:109} INFO - [2022-05-31 20:07:39,944] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:39,995] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:07:40,011] {logging_mixin.py:109} INFO - [2022-05-31 20:07:40,010] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:07:40,028] {logging_mixin.py:109} INFO - [2022-05-31 20:07:40,028] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:07:40.028530+00:00
+[2022-05-31 20:07:40,040] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2022-05-31 20:08:10,941] {processor.py:163} INFO - Started process (PID=429) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:10,943] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:08:10,945] {logging_mixin.py:109} INFO - [2022-05-31 20:08:10,944] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:10,982] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:10,998] {logging_mixin.py:109} INFO - [2022-05-31 20:08:10,997] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:11,019] {logging_mixin.py:109} INFO - [2022-05-31 20:08:11,019] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:08:11.019270+00:00
+[2022-05-31 20:08:11,043] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2022-05-31 20:08:42,809] {processor.py:163} INFO - Started process (PID=468) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:42,811] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:08:42,813] {logging_mixin.py:109} INFO - [2022-05-31 20:08:42,813] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:42,850] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:08:42,866] {logging_mixin.py:109} INFO - [2022-05-31 20:08:42,865] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:08:42,887] {logging_mixin.py:109} INFO - [2022-05-31 20:08:42,887] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:08:42.887448+00:00
+[2022-05-31 20:08:42,901] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.098 seconds
+[2022-05-31 20:09:14,157] {processor.py:163} INFO - Started process (PID=507) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:14,160] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:09:14,162] {logging_mixin.py:109} INFO - [2022-05-31 20:09:14,162] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:14,199] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:14,214] {logging_mixin.py:109} INFO - [2022-05-31 20:09:14,214] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:14,236] {logging_mixin.py:109} INFO - [2022-05-31 20:09:14,236] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:09:14.235867+00:00
+[2022-05-31 20:09:14,250] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds
+[2022-05-31 20:09:45,812] {processor.py:163} INFO - Started process (PID=548) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:45,815] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:09:45,817] {logging_mixin.py:109} INFO - [2022-05-31 20:09:45,817] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:45,854] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:09:45,869] {logging_mixin.py:109} INFO - [2022-05-31 20:09:45,869] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:09:45,892] {logging_mixin.py:109} INFO - [2022-05-31 20:09:45,892] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:09:45.891957+00:00
+[2022-05-31 20:09:45,908] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.103 seconds
+[2022-05-31 20:10:16,270] {processor.py:163} INFO - Started process (PID=587) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:16,272] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:10:16,274] {logging_mixin.py:109} INFO - [2022-05-31 20:10:16,274] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:16,313] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:16,328] {logging_mixin.py:109} INFO - [2022-05-31 20:10:16,328] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:16,350] {logging_mixin.py:109} INFO - [2022-05-31 20:10:16,350] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:10:16.350106+00:00
+[2022-05-31 20:10:16,365] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds
+[2022-05-31 20:10:47,661] {processor.py:163} INFO - Started process (PID=625) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:47,664] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:10:47,666] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,666] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:47,709] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:10:47,726] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,726] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:10:47,757] {logging_mixin.py:109} INFO - [2022-05-31 20:10:47,757] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:10:47.756607+00:00
+[2022-05-31 20:10:47,777] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2022-05-31 20:11:20,668] {processor.py:163} INFO - Started process (PID=667) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:20,671] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:11:20,673] {logging_mixin.py:109} INFO - [2022-05-31 20:11:20,673] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:20,710] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:20,726] {logging_mixin.py:109} INFO - [2022-05-31 20:11:20,725] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:20,745] {logging_mixin.py:109} INFO - [2022-05-31 20:11:20,745] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:11:20.744794+00:00
+[2022-05-31 20:11:20,760] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.098 seconds
+[2022-05-31 20:11:50,823] {processor.py:163} INFO - Started process (PID=706) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:50,825] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:11:50,826] {logging_mixin.py:109} INFO - [2022-05-31 20:11:50,826] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:50,861] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:11:50,874] {logging_mixin.py:109} INFO - [2022-05-31 20:11:50,873] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:11:50,900] {logging_mixin.py:109} INFO - [2022-05-31 20:11:50,900] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:11:50.900150+00:00
+[2022-05-31 20:11:50,910] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2022-05-31 20:12:21,459] {processor.py:163} INFO - Started process (PID=744) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:21,462] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:12:21,464] {logging_mixin.py:109} INFO - [2022-05-31 20:12:21,463] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:21,501] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:21,517] {logging_mixin.py:109} INFO - [2022-05-31 20:12:21,517] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:21,540] {logging_mixin.py:109} INFO - [2022-05-31 20:12:21,539] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:12:21.539505+00:00
+[2022-05-31 20:12:21,557] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.105 seconds
+[2022-05-31 20:12:53,251] {processor.py:163} INFO - Started process (PID=785) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:53,254] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:12:53,255] {logging_mixin.py:109} INFO - [2022-05-31 20:12:53,255] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:53,289] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:12:53,301] {logging_mixin.py:109} INFO - [2022-05-31 20:12:53,301] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:12:53,327] {logging_mixin.py:109} INFO - [2022-05-31 20:12:53,327] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:12:53.326833+00:00
+[2022-05-31 20:12:53,346] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds
+[2022-05-31 20:13:24,551] {processor.py:163} INFO - Started process (PID=824) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:24,553] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:13:24,554] {logging_mixin.py:109} INFO - [2022-05-31 20:13:24,554] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:24,591] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:24,608] {logging_mixin.py:109} INFO - [2022-05-31 20:13:24,607] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:24,626] {logging_mixin.py:109} INFO - [2022-05-31 20:13:24,626] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:13:24.625755+00:00
+[2022-05-31 20:13:24,682] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.135 seconds
+[2022-05-31 20:13:56,100] {processor.py:163} INFO - Started process (PID=863) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:56,102] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:13:56,104] {logging_mixin.py:109} INFO - [2022-05-31 20:13:56,104] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:56,147] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:13:56,164] {logging_mixin.py:109} INFO - [2022-05-31 20:13:56,164] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:13:56,194] {logging_mixin.py:109} INFO - [2022-05-31 20:13:56,194] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:13:56.193762+00:00
+[2022-05-31 20:13:56,211] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.117 seconds
+[2022-05-31 20:14:27,933] {processor.py:163} INFO - Started process (PID=902) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:27,937] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:14:27,941] {logging_mixin.py:109} INFO - [2022-05-31 20:14:27,941] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:27,976] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:27,995] {logging_mixin.py:109} INFO - [2022-05-31 20:14:27,995] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:28,018] {logging_mixin.py:109} INFO - [2022-05-31 20:14:28,018] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:14:28.017740+00:00
+[2022-05-31 20:14:28,031] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.104 seconds
+[2022-05-31 20:14:58,867] {processor.py:163} INFO - Started process (PID=940) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:58,870] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:14:58,872] {logging_mixin.py:109} INFO - [2022-05-31 20:14:58,872] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:58,915] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:14:58,937] {logging_mixin.py:109} INFO - [2022-05-31 20:14:58,937] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:14:58,965] {logging_mixin.py:109} INFO - [2022-05-31 20:14:58,965] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:14:58.964930+00:00
+[2022-05-31 20:14:58,982] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2022-05-31 20:15:30,200] {processor.py:163} INFO - Started process (PID=979) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:15:30,207] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:15:30,210] {logging_mixin.py:109} INFO - [2022-05-31 20:15:30,209] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:15:30,277] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:15:30,300] {logging_mixin.py:109} INFO - [2022-05-31 20:15:30,300] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:15:30,323] {logging_mixin.py:109} INFO - [2022-05-31 20:15:30,322] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:15:30.322254+00:00
+[2022-05-31 20:15:30,336] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.144 seconds
+[2022-05-31 20:16:00,845] {processor.py:163} INFO - Started process (PID=1017) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:00,847] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:16:00,849] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,848] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:00,883] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:00,895] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,895] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:16:00,916] {logging_mixin.py:109} INFO - [2022-05-31 20:16:00,916] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:16:00.915594+00:00
+[2022-05-31 20:16:00,928] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2022-05-31 20:16:32,275] {processor.py:163} INFO - Started process (PID=1057) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:32,278] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:16:32,279] {logging_mixin.py:109} INFO - [2022-05-31 20:16:32,279] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:32,317] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:16:32,329] {logging_mixin.py:109} INFO - [2022-05-31 20:16:32,329] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:16:32,353] {logging_mixin.py:109} INFO - [2022-05-31 20:16:32,352] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:16:32.352349+00:00
+[2022-05-31 20:16:32,368] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2022-05-31 20:17:02,860] {processor.py:163} INFO - Started process (PID=1095) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:02,862] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:17:02,864] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,864] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:02,901] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:02,913] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,913] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:02,934] {logging_mixin.py:109} INFO - [2022-05-31 20:17:02,934] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:17:02.934341+00:00
+[2022-05-31 20:17:02,948] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.095 seconds
+[2022-05-31 20:17:33,041] {processor.py:163} INFO - Started process (PID=1133) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:33,044] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:17:33,045] {logging_mixin.py:109} INFO - [2022-05-31 20:17:33,045] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:33,088] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:17:33,112] {logging_mixin.py:109} INFO - [2022-05-31 20:17:33,112] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:17:33,142] {logging_mixin.py:109} INFO - [2022-05-31 20:17:33,141] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:17:33.141600+00:00
+[2022-05-31 20:17:33,156] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.119 seconds
+[2022-05-31 20:18:03,516] {processor.py:163} INFO - Started process (PID=1172) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:03,518] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:18:03,520] {logging_mixin.py:109} INFO - [2022-05-31 20:18:03,520] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:03,558] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:03,574] {logging_mixin.py:109} INFO - [2022-05-31 20:18:03,574] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:03,608] {logging_mixin.py:109} INFO - [2022-05-31 20:18:03,608] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:18:03.607804+00:00
+[2022-05-31 20:18:03,630] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2022-05-31 20:18:34,287] {processor.py:163} INFO - Started process (PID=1211) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:34,289] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:18:34,291] {logging_mixin.py:109} INFO - [2022-05-31 20:18:34,291] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:34,338] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:18:34,359] {logging_mixin.py:109} INFO - [2022-05-31 20:18:34,359] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:18:34,386] {logging_mixin.py:109} INFO - [2022-05-31 20:18:34,385] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:18:34.385129+00:00
+[2022-05-31 20:18:34,404] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.124 seconds
+[2022-05-31 20:19:04,536] {processor.py:163} INFO - Started process (PID=1249) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:04,538] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:19:04,539] {logging_mixin.py:109} INFO - [2022-05-31 20:19:04,539] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:04,575] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:04,587] {logging_mixin.py:109} INFO - [2022-05-31 20:19:04,587] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:04,607] {logging_mixin.py:109} INFO - [2022-05-31 20:19:04,607] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:19:04.607344+00:00
+[2022-05-31 20:19:04,618] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-05-31 20:19:35,799] {processor.py:163} INFO - Started process (PID=1289) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:35,801] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:19:35,803] {logging_mixin.py:109} INFO - [2022-05-31 20:19:35,803] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:35,838] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:19:35,850] {logging_mixin.py:109} INFO - [2022-05-31 20:19:35,850] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:19:35,930] {logging_mixin.py:109} INFO - [2022-05-31 20:19:35,930] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:19:35.930340+00:00
+[2022-05-31 20:19:35,945] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.149 seconds
+[2022-05-31 20:20:07,259] {processor.py:163} INFO - Started process (PID=1328) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:07,264] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:20:07,275] {logging_mixin.py:109} INFO - [2022-05-31 20:20:07,275] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:07,344] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:07,377] {logging_mixin.py:109} INFO - [2022-05-31 20:20:07,377] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:07,417] {logging_mixin.py:109} INFO - [2022-05-31 20:20:07,417] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:20:07.416801+00:00
+[2022-05-31 20:20:07,436] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.182 seconds
+[2022-05-31 20:20:40,352] {processor.py:163} INFO - Started process (PID=1369) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:40,354] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:20:40,356] {logging_mixin.py:109} INFO - [2022-05-31 20:20:40,355] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:40,391] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:20:40,405] {logging_mixin.py:109} INFO - [2022-05-31 20:20:40,405] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:20:40,425] {logging_mixin.py:109} INFO - [2022-05-31 20:20:40,425] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:20:40.425216+00:00
+[2022-05-31 20:20:40,439] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2022-05-31 20:21:10,508] {processor.py:163} INFO - Started process (PID=1407) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:10,511] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:21:10,513] {logging_mixin.py:109} INFO - [2022-05-31 20:21:10,513] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:10,551] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:10,563] {logging_mixin.py:109} INFO - [2022-05-31 20:21:10,563] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:10,582] {logging_mixin.py:109} INFO - [2022-05-31 20:21:10,582] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:21:10.581800+00:00
+[2022-05-31 20:21:10,594] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2022-05-31 20:21:42,523] {processor.py:163} INFO - Started process (PID=1446) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:42,525] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:21:42,526] {logging_mixin.py:109} INFO - [2022-05-31 20:21:42,526] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:42,562] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:21:42,575] {logging_mixin.py:109} INFO - [2022-05-31 20:21:42,575] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:21:42,595] {logging_mixin.py:109} INFO - [2022-05-31 20:21:42,594] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:21:42.594576+00:00
+[2022-05-31 20:21:42,736] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.216 seconds
+[2022-05-31 20:22:13,472] {processor.py:163} INFO - Started process (PID=1485) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:13,473] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:22:13,475] {logging_mixin.py:109} INFO - [2022-05-31 20:22:13,475] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:13,509] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:13,521] {logging_mixin.py:109} INFO - [2022-05-31 20:22:13,521] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:13,540] {logging_mixin.py:109} INFO - [2022-05-31 20:22:13,540] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:22:13.539679+00:00
+[2022-05-31 20:22:13,553] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-05-31 20:22:44,019] {processor.py:163} INFO - Started process (PID=1525) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:44,021] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:22:44,023] {logging_mixin.py:109} INFO - [2022-05-31 20:22:44,023] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:44,067] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:22:44,085] {logging_mixin.py:109} INFO - [2022-05-31 20:22:44,085] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:22:44,115] {logging_mixin.py:109} INFO - [2022-05-31 20:22:44,114] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:22:44.114612+00:00
+[2022-05-31 20:22:44,130] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.118 seconds
+[2022-05-31 20:23:15,933] {processor.py:163} INFO - Started process (PID=1566) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:15,935] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:23:15,938] {logging_mixin.py:109} INFO - [2022-05-31 20:23:15,938] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:15,985] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:16,007] {logging_mixin.py:109} INFO - [2022-05-31 20:23:16,007] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:16,040] {logging_mixin.py:109} INFO - [2022-05-31 20:23:16,040] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:23:16.040528+00:00
+[2022-05-31 20:23:16,061] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.135 seconds
+[2022-05-31 20:23:47,006] {processor.py:163} INFO - Started process (PID=1605) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:47,008] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:23:47,010] {logging_mixin.py:109} INFO - [2022-05-31 20:23:47,010] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:47,055] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:23:47,074] {logging_mixin.py:109} INFO - [2022-05-31 20:23:47,074] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:23:47,099] {logging_mixin.py:109} INFO - [2022-05-31 20:23:47,099] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:23:47.098844+00:00
+[2022-05-31 20:23:47,114] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-05-31 20:24:18,033] {processor.py:163} INFO - Started process (PID=1644) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:18,036] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:24:18,037] {logging_mixin.py:109} INFO - [2022-05-31 20:24:18,037] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:18,085] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:18,101] {logging_mixin.py:109} INFO - [2022-05-31 20:24:18,101] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:18,124] {logging_mixin.py:109} INFO - [2022-05-31 20:24:18,124] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:24:18.124280+00:00
+[2022-05-31 20:24:18,137] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2022-05-31 20:24:49,222] {processor.py:163} INFO - Started process (PID=1683) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:49,227] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:24:49,229] {logging_mixin.py:109} INFO - [2022-05-31 20:24:49,229] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:49,284] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:24:49,300] {logging_mixin.py:109} INFO - [2022-05-31 20:24:49,300] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:24:49,322] {logging_mixin.py:109} INFO - [2022-05-31 20:24:49,322] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:24:49.321901+00:00
+[2022-05-31 20:24:49,340] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.128 seconds
+[2022-05-31 20:25:20,334] {processor.py:163} INFO - Started process (PID=1722) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:20,336] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:25:20,337] {logging_mixin.py:109} INFO - [2022-05-31 20:25:20,337] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:20,374] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:20,389] {logging_mixin.py:109} INFO - [2022-05-31 20:25:20,389] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:20,409] {logging_mixin.py:109} INFO - [2022-05-31 20:25:20,409] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:25:20.409301+00:00
+[2022-05-31 20:25:20,453] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.126 seconds
+[2022-05-31 20:25:51,490] {processor.py:163} INFO - Started process (PID=1760) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:51,492] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:25:51,494] {logging_mixin.py:109} INFO - [2022-05-31 20:25:51,494] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:51,540] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:25:51,556] {logging_mixin.py:109} INFO - [2022-05-31 20:25:51,555] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:25:51,580] {logging_mixin.py:109} INFO - [2022-05-31 20:25:51,580] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:25:51.580001+00:00
+[2022-05-31 20:25:51,599] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.116 seconds
+[2022-05-31 20:26:22,722] {processor.py:163} INFO - Started process (PID=1799) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:22,725] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:26:22,727] {logging_mixin.py:109} INFO - [2022-05-31 20:26:22,726] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:22,764] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:22,777] {logging_mixin.py:109} INFO - [2022-05-31 20:26:22,777] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:22,802] {logging_mixin.py:109} INFO - [2022-05-31 20:26:22,802] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:26:22.802328+00:00
+[2022-05-31 20:26:22,833] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-05-31 20:26:54,302] {processor.py:163} INFO - Started process (PID=1840) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:54,305] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:26:54,307] {logging_mixin.py:109} INFO - [2022-05-31 20:26:54,307] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:54,349] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:26:54,367] {logging_mixin.py:109} INFO - [2022-05-31 20:26:54,367] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:26:54,391] {logging_mixin.py:109} INFO - [2022-05-31 20:26:54,391] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:26:54.390847+00:00
+[2022-05-31 20:26:54,406] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2022-05-31 20:27:25,191] {processor.py:163} INFO - Started process (PID=1879) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:25,193] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:27:25,194] {logging_mixin.py:109} INFO - [2022-05-31 20:27:25,194] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:25,227] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:25,239] {logging_mixin.py:109} INFO - [2022-05-31 20:27:25,239] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:25,258] {logging_mixin.py:109} INFO - [2022-05-31 20:27:25,258] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:27:25.258048+00:00
+[2022-05-31 20:27:25,269] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2022-05-31 20:27:56,506] {processor.py:163} INFO - Started process (PID=1918) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:56,508] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:27:56,509] {logging_mixin.py:109} INFO - [2022-05-31 20:27:56,509] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:56,545] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:27:56,558] {logging_mixin.py:109} INFO - [2022-05-31 20:27:56,558] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:27:56,578] {logging_mixin.py:109} INFO - [2022-05-31 20:27:56,578] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:27:56.578236+00:00
+[2022-05-31 20:27:56,590] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2022-05-31 20:28:27,425] {processor.py:163} INFO - Started process (PID=1957) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:27,428] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:28:27,430] {logging_mixin.py:109} INFO - [2022-05-31 20:28:27,429] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:27,482] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:27,510] {logging_mixin.py:109} INFO - [2022-05-31 20:28:27,510] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:27,536] {logging_mixin.py:109} INFO - [2022-05-31 20:28:27,536] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:28:27.535999+00:00
+[2022-05-31 20:28:27,553] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.134 seconds
+[2022-05-31 20:28:58,880] {processor.py:163} INFO - Started process (PID=1996) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:58,883] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:28:58,884] {logging_mixin.py:109} INFO - [2022-05-31 20:28:58,884] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:58,927] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:28:58,950] {logging_mixin.py:109} INFO - [2022-05-31 20:28:58,949] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:28:58,972] {logging_mixin.py:109} INFO - [2022-05-31 20:28:58,971] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:28:58.971599+00:00
+[2022-05-31 20:28:58,983] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2022-05-31 20:29:29,388] {processor.py:163} INFO - Started process (PID=2035) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:29:29,391] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:29:29,393] {logging_mixin.py:109} INFO - [2022-05-31 20:29:29,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:29:29,442] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:29:29,459] {logging_mixin.py:109} INFO - [2022-05-31 20:29:29,459] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:29:29,481] {logging_mixin.py:109} INFO - [2022-05-31 20:29:29,481] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:29:29.481281+00:00
+[2022-05-31 20:29:29,497] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-05-31 20:30:00,300] {processor.py:163} INFO - Started process (PID=2073) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:00,303] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:30:00,305] {logging_mixin.py:109} INFO - [2022-05-31 20:30:00,304] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:00,346] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:00,361] {logging_mixin.py:109} INFO - [2022-05-31 20:30:00,361] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:30:00,384] {logging_mixin.py:109} INFO - [2022-05-31 20:30:00,384] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:30:00.384002+00:00
+[2022-05-31 20:30:00,399] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.105 seconds
+[2022-05-31 20:30:31,895] {processor.py:163} INFO - Started process (PID=2114) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:31,898] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:30:31,900] {logging_mixin.py:109} INFO - [2022-05-31 20:30:31,900] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:31,937] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:30:31,952] {logging_mixin.py:109} INFO - [2022-05-31 20:30:31,952] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:30:31,975] {logging_mixin.py:109} INFO - [2022-05-31 20:30:31,975] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:30:31.974922+00:00
+[2022-05-31 20:30:31,991] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2022-05-31 20:31:03,042] {processor.py:163} INFO - Started process (PID=2152) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:03,045] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:31:03,047] {logging_mixin.py:109} INFO - [2022-05-31 20:31:03,046] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:03,101] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:03,117] {logging_mixin.py:109} INFO - [2022-05-31 20:31:03,116] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:03,146] {logging_mixin.py:109} INFO - [2022-05-31 20:31:03,146] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:31:03.146208+00:00
+[2022-05-31 20:31:03,157] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.120 seconds
+[2022-05-31 20:31:34,719] {processor.py:163} INFO - Started process (PID=2190) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:34,722] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:31:34,723] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,723] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:34,761] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:31:34,776] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,776] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:31:34,805] {logging_mixin.py:109} INFO - [2022-05-31 20:31:34,805] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:31:34.804934+00:00
+[2022-05-31 20:31:34,823] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2022-05-31 20:32:05,666] {processor.py:163} INFO - Started process (PID=2229) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:05,668] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:32:05,670] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,670] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:05,716] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:05,732] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,732] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:05,758] {logging_mixin.py:109} INFO - [2022-05-31 20:32:05,758] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:32:05.757918+00:00
+[2022-05-31 20:32:05,770] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2022-05-31 20:32:37,032] {processor.py:163} INFO - Started process (PID=2268) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:37,033] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:32:37,035] {logging_mixin.py:109} INFO - [2022-05-31 20:32:37,035] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:37,071] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:32:37,084] {logging_mixin.py:109} INFO - [2022-05-31 20:32:37,084] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:32:37,107] {logging_mixin.py:109} INFO - [2022-05-31 20:32:37,107] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:32:37.106642+00:00
+[2022-05-31 20:32:37,125] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.097 seconds
+[2022-05-31 20:33:08,658] {processor.py:163} INFO - Started process (PID=2307) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:08,662] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:33:08,663] {logging_mixin.py:109} INFO - [2022-05-31 20:33:08,663] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:08,708] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:08,733] {logging_mixin.py:109} INFO - [2022-05-31 20:33:08,732] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:08,751] {logging_mixin.py:109} INFO - [2022-05-31 20:33:08,751] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:33:08.751353+00:00
+[2022-05-31 20:33:08,762] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.111 seconds
+[2022-05-31 20:33:39,058] {processor.py:163} INFO - Started process (PID=2346) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:39,060] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:33:39,061] {logging_mixin.py:109} INFO - [2022-05-31 20:33:39,061] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:39,099] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:33:39,111] {logging_mixin.py:109} INFO - [2022-05-31 20:33:39,111] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:33:39,130] {logging_mixin.py:109} INFO - [2022-05-31 20:33:39,130] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:33:39.129846+00:00
+[2022-05-31 20:33:39,140] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2022-05-31 20:34:10,501] {processor.py:163} INFO - Started process (PID=2386) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:10,503] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:34:10,506] {logging_mixin.py:109} INFO - [2022-05-31 20:34:10,505] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:10,552] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:10,568] {logging_mixin.py:109} INFO - [2022-05-31 20:34:10,567] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:10,590] {logging_mixin.py:109} INFO - [2022-05-31 20:34:10,590] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:34:10.590068+00:00
+[2022-05-31 20:34:10,602] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.106 seconds
+[2022-05-31 20:34:42,299] {processor.py:163} INFO - Started process (PID=2426) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:42,301] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:34:42,303] {logging_mixin.py:109} INFO - [2022-05-31 20:34:42,303] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:42,350] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:34:42,368] {logging_mixin.py:109} INFO - [2022-05-31 20:34:42,368] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:34:42,405] {logging_mixin.py:109} INFO - [2022-05-31 20:34:42,404] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:34:42.404039+00:00
+[2022-05-31 20:34:42,483] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.190 seconds
+[2022-05-31 20:35:13,904] {processor.py:163} INFO - Started process (PID=2467) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:13,910] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:35:13,915] {logging_mixin.py:109} INFO - [2022-05-31 20:35:13,915] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:13,960] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:13,973] {logging_mixin.py:109} INFO - [2022-05-31 20:35:13,973] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:13,992] {logging_mixin.py:109} INFO - [2022-05-31 20:35:13,991] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:35:13.991571+00:00
+[2022-05-31 20:35:14,007] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2022-05-31 20:35:44,389] {processor.py:163} INFO - Started process (PID=2506) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:44,391] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:35:44,393] {logging_mixin.py:109} INFO - [2022-05-31 20:35:44,393] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:44,432] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:35:44,448] {logging_mixin.py:109} INFO - [2022-05-31 20:35:44,448] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:35:44,471] {logging_mixin.py:109} INFO - [2022-05-31 20:35:44,471] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:35:44.471247+00:00
+[2022-05-31 20:35:44,486] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.103 seconds
+[2022-05-31 20:36:15,185] {processor.py:163} INFO - Started process (PID=2545) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:15,192] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:36:15,194] {logging_mixin.py:109} INFO - [2022-05-31 20:36:15,193] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:15,251] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:15,269] {logging_mixin.py:109} INFO - [2022-05-31 20:36:15,269] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:15,291] {logging_mixin.py:109} INFO - [2022-05-31 20:36:15,291] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:36:15.290946+00:00
+[2022-05-31 20:36:15,306] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.124 seconds
+[2022-05-31 20:36:46,311] {processor.py:163} INFO - Started process (PID=2584) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:46,313] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:36:46,314] {logging_mixin.py:109} INFO - [2022-05-31 20:36:46,314] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:46,351] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:36:46,364] {logging_mixin.py:109} INFO - [2022-05-31 20:36:46,364] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:36:46,392] {logging_mixin.py:109} INFO - [2022-05-31 20:36:46,391] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:36:46.391561+00:00
+[2022-05-31 20:36:46,408] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2022-05-31 20:37:17,641] {processor.py:163} INFO - Started process (PID=2623) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:17,651] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:37:17,655] {logging_mixin.py:109} INFO - [2022-05-31 20:37:17,655] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:17,701] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:17,715] {logging_mixin.py:109} INFO - [2022-05-31 20:37:17,715] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:17,738] {logging_mixin.py:109} INFO - [2022-05-31 20:37:17,738] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:37:17.738021+00:00
+[2022-05-31 20:37:17,755] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.119 seconds
+[2022-05-31 20:37:48,809] {processor.py:163} INFO - Started process (PID=2662) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:48,811] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:37:48,812] {logging_mixin.py:109} INFO - [2022-05-31 20:37:48,812] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:48,845] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:37:48,858] {logging_mixin.py:109} INFO - [2022-05-31 20:37:48,857] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:37:48,876] {logging_mixin.py:109} INFO - [2022-05-31 20:37:48,876] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:37:48.875937+00:00
+[2022-05-31 20:37:48,887] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2022-05-31 20:38:20,039] {processor.py:163} INFO - Started process (PID=2701) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:20,042] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:38:20,043] {logging_mixin.py:109} INFO - [2022-05-31 20:38:20,043] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:20,082] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:20,095] {logging_mixin.py:109} INFO - [2022-05-31 20:38:20,095] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:20,114] {logging_mixin.py:109} INFO - [2022-05-31 20:38:20,114] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:38:20.113503+00:00
+[2022-05-31 20:38:20,125] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2022-05-31 20:38:50,708] {processor.py:163} INFO - Started process (PID=2739) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:50,710] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:38:50,712] {logging_mixin.py:109} INFO - [2022-05-31 20:38:50,712] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:50,752] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:38:50,768] {logging_mixin.py:109} INFO - [2022-05-31 20:38:50,768] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:38:50,791] {logging_mixin.py:109} INFO - [2022-05-31 20:38:50,791] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:38:50.791084+00:00
+[2022-05-31 20:38:50,802] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2022-05-31 20:39:22,167] {processor.py:163} INFO - Started process (PID=2778) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:22,170] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:39:22,172] {logging_mixin.py:109} INFO - [2022-05-31 20:39:22,172] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:22,214] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:22,227] {logging_mixin.py:109} INFO - [2022-05-31 20:39:22,227] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:22,273] {logging_mixin.py:109} INFO - [2022-05-31 20:39:22,273] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:39:22.270462+00:00
+[2022-05-31 20:39:22,303] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2022-05-31 20:39:52,881] {processor.py:163} INFO - Started process (PID=2817) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:52,883] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:39:52,885] {logging_mixin.py:109} INFO - [2022-05-31 20:39:52,884] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:52,924] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:39:52,938] {logging_mixin.py:109} INFO - [2022-05-31 20:39:52,938] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:39:52,964] {logging_mixin.py:109} INFO - [2022-05-31 20:39:52,964] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:39:52.964344+00:00
+[2022-05-31 20:39:52,986] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2022-05-31 20:40:24,664] {processor.py:163} INFO - Started process (PID=2857) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:24,666] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:40:24,668] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,668] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:24,701] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:24,713] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,713] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:24,731] {logging_mixin.py:109} INFO - [2022-05-31 20:40:24,731] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:40:24.731396+00:00
+[2022-05-31 20:40:24,741] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2022-05-31 20:40:56,005] {processor.py:163} INFO - Started process (PID=2900) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:56,014] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:40:56,016] {logging_mixin.py:109} INFO - [2022-05-31 20:40:56,016] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:56,058] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:40:56,075] {logging_mixin.py:109} INFO - [2022-05-31 20:40:56,075] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:40:56,105] {logging_mixin.py:109} INFO - [2022-05-31 20:40:56,105] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:40:56.105322+00:00
+[2022-05-31 20:40:56,129] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.128 seconds
+[2022-05-31 20:41:27,184] {processor.py:163} INFO - Started process (PID=2939) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:27,186] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:41:27,188] {logging_mixin.py:109} INFO - [2022-05-31 20:41:27,187] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:27,232] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:27,253] {logging_mixin.py:109} INFO - [2022-05-31 20:41:27,253] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:27,280] {logging_mixin.py:109} INFO - [2022-05-31 20:41:27,280] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:41:27.279941+00:00
+[2022-05-31 20:41:27,296] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.116 seconds
+[2022-05-31 20:41:59,004] {processor.py:163} INFO - Started process (PID=2979) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:59,006] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:41:59,008] {logging_mixin.py:109} INFO - [2022-05-31 20:41:59,008] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:59,049] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:41:59,072] {logging_mixin.py:109} INFO - [2022-05-31 20:41:59,072] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:41:59,104] {logging_mixin.py:109} INFO - [2022-05-31 20:41:59,104] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:41:59.103893+00:00
+[2022-05-31 20:41:59,129] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.129 seconds
+[2022-05-31 20:42:30,320] {processor.py:163} INFO - Started process (PID=3019) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:42:30,323] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:42:30,324] {logging_mixin.py:109} INFO - [2022-05-31 20:42:30,324] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:42:30,373] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:42:30,402] {logging_mixin.py:109} INFO - [2022-05-31 20:42:30,402] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:42:30,431] {logging_mixin.py:109} INFO - [2022-05-31 20:42:30,431] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:42:30.430610+00:00
+[2022-05-31 20:42:30,445] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.132 seconds
+[2022-05-31 20:43:01,819] {processor.py:163} INFO - Started process (PID=3062) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:01,822] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:43:01,824] {logging_mixin.py:109} INFO - [2022-05-31 20:43:01,824] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:01,864] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:01,881] {logging_mixin.py:109} INFO - [2022-05-31 20:43:01,881] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:43:01,909] {logging_mixin.py:109} INFO - [2022-05-31 20:43:01,908] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:43:01.908097+00:00
+[2022-05-31 20:43:01,921] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2022-05-31 20:43:33,768] {processor.py:163} INFO - Started process (PID=3101) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:33,770] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:43:33,771] {logging_mixin.py:109} INFO - [2022-05-31 20:43:33,771] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:33,814] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:43:33,828] {logging_mixin.py:109} INFO - [2022-05-31 20:43:33,827] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:43:33,857] {logging_mixin.py:109} INFO - [2022-05-31 20:43:33,857] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:43:33.856865+00:00
+[2022-05-31 20:43:33,870] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.109 seconds
+[2022-05-31 20:44:04,521] {processor.py:163} INFO - Started process (PID=3140) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:04,523] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:44:04,525] {logging_mixin.py:109} INFO - [2022-05-31 20:44:04,524] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:04,571] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:04,584] {logging_mixin.py:109} INFO - [2022-05-31 20:44:04,584] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:04,609] {logging_mixin.py:109} INFO - [2022-05-31 20:44:04,608] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:44:04.608337+00:00
+[2022-05-31 20:44:04,713] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.195 seconds
+[2022-05-31 20:44:35,481] {processor.py:163} INFO - Started process (PID=3180) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:35,487] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:44:35,489] {logging_mixin.py:109} INFO - [2022-05-31 20:44:35,489] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:35,526] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:44:35,543] {logging_mixin.py:109} INFO - [2022-05-31 20:44:35,542] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:44:35,580] {logging_mixin.py:109} INFO - [2022-05-31 20:44:35,579] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:44:35.579126+00:00
+[2022-05-31 20:44:35,602] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.135 seconds
+[2022-05-31 20:45:08,348] {processor.py:163} INFO - Started process (PID=3219) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:08,351] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:45:08,353] {logging_mixin.py:109} INFO - [2022-05-31 20:45:08,353] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:08,398] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:08,415] {logging_mixin.py:109} INFO - [2022-05-31 20:45:08,415] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:08,440] {logging_mixin.py:109} INFO - [2022-05-31 20:45:08,440] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:45:08.439810+00:00
+[2022-05-31 20:45:08,571] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.229 seconds
+[2022-05-31 20:45:39,223] {processor.py:163} INFO - Started process (PID=3258) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:39,226] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:45:39,228] {logging_mixin.py:109} INFO - [2022-05-31 20:45:39,228] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:39,271] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:45:39,288] {logging_mixin.py:109} INFO - [2022-05-31 20:45:39,288] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:45:39,310] {logging_mixin.py:109} INFO - [2022-05-31 20:45:39,310] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:45:39.310408+00:00
+[2022-05-31 20:45:39,436] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.219 seconds
+[2022-05-31 20:46:11,415] {processor.py:163} INFO - Started process (PID=3298) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:11,432] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:46:11,434] {logging_mixin.py:109} INFO - [2022-05-31 20:46:11,434] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:11,588] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:11,650] {logging_mixin.py:109} INFO - [2022-05-31 20:46:11,650] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:11,705] {logging_mixin.py:109} INFO - [2022-05-31 20:46:11,705] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:46:11.704566+00:00
+[2022-05-31 20:46:11,894] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.496 seconds
+[2022-05-31 20:46:42,426] {processor.py:163} INFO - Started process (PID=3337) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:42,428] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:46:42,429] {logging_mixin.py:109} INFO - [2022-05-31 20:46:42,429] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:42,465] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:46:42,504] {logging_mixin.py:109} INFO - [2022-05-31 20:46:42,504] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:46:42,608] {logging_mixin.py:109} INFO - [2022-05-31 20:46:42,608] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:46:42.607788+00:00
+[2022-05-31 20:46:42,675] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.253 seconds
+[2022-05-31 20:47:15,208] {processor.py:163} INFO - Started process (PID=3376) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:15,210] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:47:15,211] {logging_mixin.py:109} INFO - [2022-05-31 20:47:15,211] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:15,271] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:15,295] {logging_mixin.py:109} INFO - [2022-05-31 20:47:15,295] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:15,434] {logging_mixin.py:109} INFO - [2022-05-31 20:47:15,434] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:47:15.433572+00:00
+[2022-05-31 20:47:16,066] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.862 seconds
+[2022-05-31 20:47:46,394] {processor.py:163} INFO - Started process (PID=3415) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:46,562] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:47:46,564] {logging_mixin.py:109} INFO - [2022-05-31 20:47:46,564] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:46,605] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:47:46,747] {logging_mixin.py:109} INFO - [2022-05-31 20:47:46,746] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:47:46,763] {logging_mixin.py:109} INFO - [2022-05-31 20:47:46,763] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:47:46.763265+00:00
+[2022-05-31 20:47:46,778] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.390 seconds
+[2022-05-31 20:48:17,326] {processor.py:163} INFO - Started process (PID=3454) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:17,328] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:48:17,330] {logging_mixin.py:109} INFO - [2022-05-31 20:48:17,330] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:17,371] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:17,511] {logging_mixin.py:109} INFO - [2022-05-31 20:48:17,511] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:17,528] {logging_mixin.py:109} INFO - [2022-05-31 20:48:17,528] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:48:17.527994+00:00
+[2022-05-31 20:48:17,539] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.219 seconds
+[2022-05-31 20:48:47,975] {processor.py:163} INFO - Started process (PID=3493) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:47,977] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:48:47,979] {logging_mixin.py:109} INFO - [2022-05-31 20:48:47,978] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:48,015] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:48:48,113] {logging_mixin.py:109} INFO - [2022-05-31 20:48:48,113] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:48:48,132] {logging_mixin.py:109} INFO - [2022-05-31 20:48:48,132] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:48:48.132293+00:00
+[2022-05-31 20:48:48,146] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.178 seconds
+[2022-05-31 20:49:18,566] {processor.py:163} INFO - Started process (PID=3532) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:18,568] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:49:18,569] {logging_mixin.py:109} INFO - [2022-05-31 20:49:18,569] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:18,734] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:18,752] {logging_mixin.py:109} INFO - [2022-05-31 20:49:18,752] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:18,781] {logging_mixin.py:109} INFO - [2022-05-31 20:49:18,781] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:49:18.780738+00:00
+[2022-05-31 20:49:18,799] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.241 seconds
+[2022-05-31 20:49:49,615] {processor.py:163} INFO - Started process (PID=3571) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:49,617] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:49:49,619] {logging_mixin.py:109} INFO - [2022-05-31 20:49:49,619] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:49,755] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:49:49,773] {logging_mixin.py:109} INFO - [2022-05-31 20:49:49,773] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:49:49,790] {logging_mixin.py:109} INFO - [2022-05-31 20:49:49,790] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:49:49.789873+00:00
+[2022-05-31 20:49:49,803] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.193 seconds
+[2022-05-31 20:50:20,261] {processor.py:163} INFO - Started process (PID=3610) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:20,264] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:50:20,266] {logging_mixin.py:109} INFO - [2022-05-31 20:50:20,266] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:20,406] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:20,421] {logging_mixin.py:109} INFO - [2022-05-31 20:50:20,421] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:20,452] {logging_mixin.py:109} INFO - [2022-05-31 20:50:20,451] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:50:20.451180+00:00
+[2022-05-31 20:50:20,464] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.210 seconds
+[2022-05-31 20:50:52,909] {processor.py:163} INFO - Started process (PID=3650) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:52,911] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:50:52,917] {logging_mixin.py:109} INFO - [2022-05-31 20:50:52,917] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:53,048] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:50:53,095] {logging_mixin.py:109} INFO - [2022-05-31 20:50:53,095] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:50:53,157] {logging_mixin.py:109} INFO - [2022-05-31 20:50:53,157] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:50:53.156916+00:00
+[2022-05-31 20:50:53,229] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.323 seconds
+[2022-05-31 20:51:24,045] {processor.py:163} INFO - Started process (PID=3689) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:24,048] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:51:24,050] {logging_mixin.py:109} INFO - [2022-05-31 20:51:24,049] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:24,087] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:24,103] {logging_mixin.py:109} INFO - [2022-05-31 20:51:24,103] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:24,125] {logging_mixin.py:109} INFO - [2022-05-31 20:51:24,125] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:51:24.124912+00:00
+[2022-05-31 20:51:24,146] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2022-05-31 20:51:55,138] {processor.py:163} INFO - Started process (PID=3728) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:55,141] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:51:55,143] {logging_mixin.py:109} INFO - [2022-05-31 20:51:55,142] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:55,180] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:51:55,200] {logging_mixin.py:109} INFO - [2022-05-31 20:51:55,200] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:51:55,232] {logging_mixin.py:109} INFO - [2022-05-31 20:51:55,232] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:51:55.232108+00:00
+[2022-05-31 20:51:55,253] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2022-05-31 20:52:25,750] {processor.py:163} INFO - Started process (PID=3767) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:25,752] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:52:25,755] {logging_mixin.py:109} INFO - [2022-05-31 20:52:25,754] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:25,795] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:25,819] {logging_mixin.py:109} INFO - [2022-05-31 20:52:25,819] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:25,847] {logging_mixin.py:109} INFO - [2022-05-31 20:52:25,847] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:52:25.846874+00:00
+[2022-05-31 20:52:25,861] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.118 seconds
+[2022-05-31 20:52:56,772] {processor.py:163} INFO - Started process (PID=3806) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:56,774] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:52:56,776] {logging_mixin.py:109} INFO - [2022-05-31 20:52:56,776] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:56,809] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:52:56,821] {logging_mixin.py:109} INFO - [2022-05-31 20:52:56,821] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:52:56,839] {logging_mixin.py:109} INFO - [2022-05-31 20:52:56,839] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:52:56.839375+00:00
+[2022-05-31 20:52:56,850] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2022-05-31 20:53:27,760] {processor.py:163} INFO - Started process (PID=3845) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:27,763] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:53:27,765] {logging_mixin.py:109} INFO - [2022-05-31 20:53:27,765] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:27,814] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:27,831] {logging_mixin.py:109} INFO - [2022-05-31 20:53:27,831] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:27,871] {logging_mixin.py:109} INFO - [2022-05-31 20:53:27,870] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:53:27.868406+00:00
+[2022-05-31 20:53:27,897] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.143 seconds
+[2022-05-31 20:53:58,510] {processor.py:163} INFO - Started process (PID=3884) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:58,513] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:53:58,515] {logging_mixin.py:109} INFO - [2022-05-31 20:53:58,514] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:58,553] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:53:58,567] {logging_mixin.py:109} INFO - [2022-05-31 20:53:58,566] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:53:58,609] {logging_mixin.py:109} INFO - [2022-05-31 20:53:58,609] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:53:58.608469+00:00
+[2022-05-31 20:53:58,681] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.177 seconds
+[2022-05-31 20:54:30,026] {processor.py:163} INFO - Started process (PID=3923) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:54:30,028] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:54:30,029] {logging_mixin.py:109} INFO - [2022-05-31 20:54:30,029] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:54:30,074] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:54:30,091] {logging_mixin.py:109} INFO - [2022-05-31 20:54:30,091] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:54:30,114] {logging_mixin.py:109} INFO - [2022-05-31 20:54:30,113] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:54:30.113640+00:00
+[2022-05-31 20:54:30,126] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.106 seconds
+[2022-05-31 20:55:01,277] {processor.py:163} INFO - Started process (PID=3962) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:01,279] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:55:01,281] {logging_mixin.py:109} INFO - [2022-05-31 20:55:01,281] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:01,329] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:01,343] {logging_mixin.py:109} INFO - [2022-05-31 20:55:01,343] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:55:01,364] {logging_mixin.py:109} INFO - [2022-05-31 20:55:01,364] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:55:01.363714+00:00
+[2022-05-31 20:55:01,380] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.110 seconds
+[2022-05-31 20:55:31,873] {processor.py:163} INFO - Started process (PID=4001) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:31,875] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:55:31,878] {logging_mixin.py:109} INFO - [2022-05-31 20:55:31,877] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:31,926] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:55:31,946] {logging_mixin.py:109} INFO - [2022-05-31 20:55:31,945] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:55:31,972] {logging_mixin.py:109} INFO - [2022-05-31 20:55:31,972] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:55:31.971548+00:00
+[2022-05-31 20:55:31,990] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.123 seconds
+[2022-05-31 20:56:02,805] {processor.py:163} INFO - Started process (PID=4040) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:02,806] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:56:02,808] {logging_mixin.py:109} INFO - [2022-05-31 20:56:02,808] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:02,857] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:02,876] {logging_mixin.py:109} INFO - [2022-05-31 20:56:02,875] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:56:02,899] {logging_mixin.py:109} INFO - [2022-05-31 20:56:02,899] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:56:02.898865+00:00
+[2022-05-31 20:56:02,915] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.114 seconds
+[2022-05-31 20:56:33,661] {processor.py:163} INFO - Started process (PID=4079) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:33,663] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:56:33,665] {logging_mixin.py:109} INFO - [2022-05-31 20:56:33,664] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:33,709] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:56:33,724] {logging_mixin.py:109} INFO - [2022-05-31 20:56:33,724] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:56:33,759] {logging_mixin.py:109} INFO - [2022-05-31 20:56:33,759] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:56:33.759253+00:00
+[2022-05-31 20:56:33,778] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.120 seconds
+[2022-05-31 20:57:04,309] {processor.py:163} INFO - Started process (PID=4118) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:04,311] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:57:04,312] {logging_mixin.py:109} INFO - [2022-05-31 20:57:04,312] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:04,345] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:04,398] {logging_mixin.py:109} INFO - [2022-05-31 20:57:04,398] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:04,423] {logging_mixin.py:109} INFO - [2022-05-31 20:57:04,422] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:57:04.422631+00:00
+[2022-05-31 20:57:04,490] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.184 seconds
+[2022-05-31 20:57:35,677] {processor.py:163} INFO - Started process (PID=4157) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:35,679] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:57:35,680] {logging_mixin.py:109} INFO - [2022-05-31 20:57:35,680] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:35,719] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:57:35,732] {logging_mixin.py:109} INFO - [2022-05-31 20:57:35,732] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:57:35,750] {logging_mixin.py:109} INFO - [2022-05-31 20:57:35,750] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:57:35.750247+00:00
+[2022-05-31 20:57:35,762] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2022-05-31 20:58:06,877] {processor.py:163} INFO - Started process (PID=4197) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:06,880] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:58:06,882] {logging_mixin.py:109} INFO - [2022-05-31 20:58:06,881] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:06,926] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:06,943] {logging_mixin.py:109} INFO - [2022-05-31 20:58:06,943] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:06,966] {logging_mixin.py:109} INFO - [2022-05-31 20:58:06,966] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:58:06.965864+00:00
+[2022-05-31 20:58:06,978] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2022-05-31 20:58:37,921] {processor.py:163} INFO - Started process (PID=4236) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:37,924] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:58:37,926] {logging_mixin.py:109} INFO - [2022-05-31 20:58:37,925] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:37,978] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:58:37,995] {logging_mixin.py:109} INFO - [2022-05-31 20:58:37,995] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:58:38,014] {logging_mixin.py:109} INFO - [2022-05-31 20:58:38,014] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:58:38.013971+00:00
+[2022-05-31 20:58:38,024] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.116 seconds
+[2022-05-31 20:59:09,220] {processor.py:163} INFO - Started process (PID=4275) to work on /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:59:09,226] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-31 20:59:09,227] {logging_mixin.py:109} INFO - [2022-05-31 20:59:09,227] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:59:09,269] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-31 20:59:09,285] {logging_mixin.py:109} INFO - [2022-05-31 20:59:09,285] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-05-31 20:59:09,312] {logging_mixin.py:109} INFO - [2022-05-31 20:59:09,312] {dag.py:2937} INFO - Setting next_dagrun for example_skip_dag to 2022-05-30T20:59:09.312389+00:00
+[2022-05-31 20:59:09,323] {processor.py:171} INFO - Processing /opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
