@@ -1,0 +1,749 @@
+[2022-06-21 11:01:32,721] {processor.py:163} INFO - Started process (PID=1190) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:01:32,723] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:01:32,724] {logging_mixin.py:109} INFO - [2022-06-21 11:01:32,724] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:01:35,254] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:01:35,282] {logging_mixin.py:109} INFO - [2022-06-21 11:01:35,259] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:01:35,302] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:01:35,426] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 2.712 seconds
+[2022-06-21 11:02:05,524] {processor.py:163} INFO - Started process (PID=1231) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:05,527] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:02:05,528] {logging_mixin.py:109} INFO - [2022-06-21 11:02:05,528] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:05,963] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:02:05,973] {logging_mixin.py:109} INFO - [2022-06-21 11:02:05,966] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:02:05,991] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:06,160] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.642 seconds
+[2022-06-21 11:02:36,426] {processor.py:163} INFO - Started process (PID=1272) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:36,429] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:02:36,430] {logging_mixin.py:109} INFO - [2022-06-21 11:02:36,430] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:36,852] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:02:36,862] {logging_mixin.py:109} INFO - [2022-06-21 11:02:36,855] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:02:36,881] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:02:36,896] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.475 seconds
+[2022-06-21 11:03:07,598] {processor.py:163} INFO - Started process (PID=1313) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:07,599] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:03:07,600] {logging_mixin.py:109} INFO - [2022-06-21 11:03:07,600] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:08,017] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:03:08,023] {logging_mixin.py:109} INFO - [2022-06-21 11:03:08,019] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:03:08,040] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:08,051] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.456 seconds
+[2022-06-21 11:03:38,874] {processor.py:163} INFO - Started process (PID=1354) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:38,876] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:03:38,878] {logging_mixin.py:109} INFO - [2022-06-21 11:03:38,878] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:39,364] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:03:39,381] {logging_mixin.py:109} INFO - [2022-06-21 11:03:39,370] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:03:39,410] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:03:39,422] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.551 seconds
+[2022-06-21 11:04:10,076] {processor.py:163} INFO - Started process (PID=1395) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:10,079] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:04:10,080] {logging_mixin.py:109} INFO - [2022-06-21 11:04:10,080] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:10,490] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:04:10,499] {logging_mixin.py:109} INFO - [2022-06-21 11:04:10,493] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:04:10,516] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:10,532] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.461 seconds
+[2022-06-21 11:04:40,590] {processor.py:163} INFO - Started process (PID=1436) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:40,592] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:04:40,594] {logging_mixin.py:109} INFO - [2022-06-21 11:04:40,594] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:41,029] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:04:41,041] {logging_mixin.py:109} INFO - [2022-06-21 11:04:41,033] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:04:41,058] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:04:41,069] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.482 seconds
+[2022-06-21 11:05:11,224] {processor.py:163} INFO - Started process (PID=1477) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:11,227] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:05:11,228] {logging_mixin.py:109} INFO - [2022-06-21 11:05:11,228] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:11,638] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:05:11,647] {logging_mixin.py:109} INFO - [2022-06-21 11:05:11,641] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:05:11,665] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:11,678] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.459 seconds
+[2022-06-21 11:05:42,563] {processor.py:163} INFO - Started process (PID=1518) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:42,566] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:05:42,568] {logging_mixin.py:109} INFO - [2022-06-21 11:05:42,568] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:43,002] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:05:43,011] {logging_mixin.py:109} INFO - [2022-06-21 11:05:43,005] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:05:43,028] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:05:43,037] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.479 seconds
+[2022-06-21 11:06:13,754] {processor.py:163} INFO - Started process (PID=1559) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:13,758] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:06:13,760] {logging_mixin.py:109} INFO - [2022-06-21 11:06:13,760] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:14,220] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:06:14,230] {logging_mixin.py:109} INFO - [2022-06-21 11:06:14,223] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:06:14,249] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:14,258] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.510 seconds
+[2022-06-21 11:06:45,303] {processor.py:163} INFO - Started process (PID=1600) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:45,305] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:06:45,307] {logging_mixin.py:109} INFO - [2022-06-21 11:06:45,306] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:45,735] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:06:45,744] {logging_mixin.py:109} INFO - [2022-06-21 11:06:45,737] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:06:45,760] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:06:45,769] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.472 seconds
+[2022-06-21 11:07:16,800] {processor.py:163} INFO - Started process (PID=1641) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:16,802] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:07:16,804] {logging_mixin.py:109} INFO - [2022-06-21 11:07:16,804] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:17,220] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:07:17,229] {logging_mixin.py:109} INFO - [2022-06-21 11:07:17,222] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:07:17,246] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:17,257] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.463 seconds
+[2022-06-21 11:07:47,463] {processor.py:163} INFO - Started process (PID=1682) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:47,465] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:07:47,466] {logging_mixin.py:109} INFO - [2022-06-21 11:07:47,466] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:47,876] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:07:47,883] {logging_mixin.py:109} INFO - [2022-06-21 11:07:47,878] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:07:47,897] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:07:47,910] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.450 seconds
+[2022-06-21 11:08:18,574] {processor.py:163} INFO - Started process (PID=1723) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:18,577] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:08:18,579] {logging_mixin.py:109} INFO - [2022-06-21 11:08:18,578] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:19,017] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:08:19,027] {logging_mixin.py:109} INFO - [2022-06-21 11:08:19,021] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:08:19,045] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:19,209] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.640 seconds
+[2022-06-21 11:08:49,295] {processor.py:163} INFO - Started process (PID=1764) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:49,297] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:08:49,299] {logging_mixin.py:109} INFO - [2022-06-21 11:08:49,299] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:49,739] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:08:49,744] {logging_mixin.py:109} INFO - [2022-06-21 11:08:49,741] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:08:49,762] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:08:49,772] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.482 seconds
+[2022-06-21 11:09:20,101] {processor.py:163} INFO - Started process (PID=1805) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:20,102] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:09:20,104] {logging_mixin.py:109} INFO - [2022-06-21 11:09:20,103] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:20,522] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:09:20,528] {logging_mixin.py:109} INFO - [2022-06-21 11:09:20,524] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:09:20,544] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:20,557] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.460 seconds
+[2022-06-21 11:09:50,610] {processor.py:163} INFO - Started process (PID=1846) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:50,612] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:09:50,614] {logging_mixin.py:109} INFO - [2022-06-21 11:09:50,613] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:51,097] {logging_mixin.py:109} INFO -     assignee   assigner  comment_count completed   content description  \
+0  2671142.0  2671362.0           10.0      True  Buy Milk               
+1        NaN        NaN            NaN       NaN       NaN         NaN   
+
+             id                             label_ids  order  priority  \
+0  2.995104e+09  [2156154810, 2156154820, 2156154826]    1.0       1.0   
+1           NaN                                   NaN    NaN       NaN   
+
+     project_id  section_id     parent_id  \
+0  2.203306e+09      7025.0  2.995105e+09   
+1           NaN         NaN           NaN   
+
+                                          url    due.date  \
+0  https://todoist.com/showTask?id=2995104339  2016-09-01   
+1                                         NaN         NaN   
+
+           due.datetime due.recurring      due.string   due.timezone   end  
+0  2016-09-01T09:00:00Z         False  tomorrow at 12  Europe/Moscow   NaN  
+1                   NaN           NaN             NaN            NaN  True
+[2022-06-21 11:09:51,107] {logging_mixin.py:109} INFO - [2022-06-21 11:09:51,101] {dagbag.py:334} ERROR - Failed to import: /opt/bitnami/airflow/dags/utils/json_to_df.py
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/dagbag.py", line 331, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 49, in <module>
+    json_to_df(tasks)
+  File "/opt/bitnami/airflow/dags/utils/json_to_df.py", line 46, in json_to_df
+    df_nested_list.to_csv('/Users/emilkarpikov/docker_airflow/dags/utils/data.csv')
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/core/generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/formats/csvs.py", line 237, in save
+    with get_handle(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/emilkarpikov/docker_airflow/dags/utils/data.csv'
+[2022-06-21 11:09:51,127] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:09:51,140] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.535 seconds
+[2022-06-21 11:10:04,996] {processor.py:163} INFO - Started process (PID=1873) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:05,000] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:10:05,005] {logging_mixin.py:109} INFO - [2022-06-21 11:10:05,005] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:05,026] {logging_mixin.py:109} INFO - [2022-06-21 11:10:05,026] {dagbag.py:308} INFO - File /opt/bitnami/airflow/dags/utils/json_to_df.py assumed to contain no DAGs. Skipping.
+[2022-06-21 11:10:05,057] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:05,073] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.082 seconds
+[2022-06-21 11:10:35,847] {processor.py:163} INFO - Started process (PID=1914) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:35,849] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:10:35,851] {logging_mixin.py:109} INFO - [2022-06-21 11:10:35,851] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:35,854] {logging_mixin.py:109} INFO - [2022-06-21 11:10:35,854] {dagbag.py:308} INFO - File /opt/bitnami/airflow/dags/utils/json_to_df.py assumed to contain no DAGs. Skipping.
+[2022-06-21 11:10:35,873] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:10:35,877] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.035 seconds
+[2022-06-21 11:11:06,644] {processor.py:163} INFO - Started process (PID=1955) to work on /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:11:06,646] {processor.py:642} INFO - Processing file /opt/bitnami/airflow/dags/utils/json_to_df.py for tasks to queue
+[2022-06-21 11:11:06,647] {logging_mixin.py:109} INFO - [2022-06-21 11:11:06,647] {dagbag.py:500} INFO - Filling up the DagBag from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:11:06,650] {logging_mixin.py:109} INFO - [2022-06-21 11:11:06,650] {dagbag.py:308} INFO - File /opt/bitnami/airflow/dags/utils/json_to_df.py assumed to contain no DAGs. Skipping.
+[2022-06-21 11:11:06,678] {processor.py:656} WARNING - No viable dags retrieved from /opt/bitnami/airflow/dags/utils/json_to_df.py
+[2022-06-21 11:11:06,682] {processor.py:171} INFO - Processing /opt/bitnami/airflow/dags/utils/json_to_df.py took 0.043 seconds

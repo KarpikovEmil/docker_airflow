@@ -1,0 +1,71 @@
+[2022-06-21 12:38:49,407] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.json_to_df manual__2022-06-21T12:35:51.998256+00:00 [queued]>
+[2022-06-21 12:38:49,418] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.json_to_df manual__2022-06-21T12:35:51.998256+00:00 [queued]>
+[2022-06-21 12:38:49,419] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 12:38:49,419] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-21 12:38:49,420] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 12:38:49,434] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): json_to_df> on 2022-06-21 12:35:51.998256+00:00
+[2022-06-21 12:38:49,439] {standard_task_runner.py:52} INFO - Started process 158 to run task
+[2022-06-21 12:38:49,445] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'json_to_df', 'manual__2022-06-21T12:35:51.998256+00:00', '--job-id', '519', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmpc4cmv8hc', '--error-file', '/tmp/tmp3zks7em3']
+[2022-06-21 12:38:49,446] {standard_task_runner.py:77} INFO - Job 519: Subtask json_to_df
+[2022-06-21 12:38:49,516] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.json_to_df manual__2022-06-21T12:35:51.998256+00:00 [running]> on host bd658c040114
+[2022-06-21 12:38:49,578] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=json_to_df
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-21T12:35:51.998256+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-21T12:35:51.998256+00:00
+[2022-06-21 12:38:49,604] {todoist_load_to_pg.py:57} INFO -            id  color                           name  comment_count  shared  \
+0  2266101084     48                          Inbox              0   False   
+1  2266102370     31                         Работа              0   False   
+2  2281199547     46                        Проекты              0   False   
+3  2276172551     41                        Финансы              0   False   
+4  2275765087     33  Организационно-бытовые задачи              0   False   
+5  2275777802     36             Красота и здоровье              0   False   
+6  2275765259     37           Личная эффективность              0   False   
+7  2286290517     34                           Soft              0   False   
+8  2276173208     30                          Семья              0   False   
+9  2281200101     35                         Друзья              0   False   
+
+   favorite  sync_id inbox_project  \
+0     False        0          True   
+1     False        0           NaN   
+2     False        0           NaN   
+3     False        0           NaN   
+4     False        0           NaN   
+5     False        0           NaN   
+6     False        0           NaN   
+7     False        0           NaN   
+8     False        0           NaN   
+9     False        0           NaN   
+
+                                             url  order  \
+0  https://todoist.com/showProject?id=2266101084    NaN   
+1  https://todoist.com/showProject?id=2266102370    1.0   
+2  https://todoist.com/showProject?id=2281199547    2.0   
+3  https://todoist.com/showProject?id=2276172551    3.0   
+4  https://todoist.com/showProject?id=2275765087    4.0   
+5  https://todoist.com/showProject?id=2275777802    5.0   
+6  https://todoist.com/showProject?id=2275765259    6.0   
+7  https://todoist.com/showProject?id=2286290517    7.0   
+8  https://todoist.com/showProject?id=2276173208    8.0   
+9  https://todoist.com/showProject?id=2281200101    9.0   
+
+                     dag_run  
+0 2022-06-21 12:38:49.594301  
+1 2022-06-21 12:38:49.594301  
+2 2022-06-21 12:38:49.594301  
+3 2022-06-21 12:38:49.594301  
+4 2022-06-21 12:38:49.594301  
+5 2022-06-21 12:38:49.594301  
+6 2022-06-21 12:38:49.594301  
+7 2022-06-21 12:38:49.594301  
+8 2022-06-21 12:38:49.594301  
+9 2022-06-21 12:38:49.594301  
+[2022-06-21 12:38:49,613] {base.py:70} INFO - Using connection to: id: PG_LOCAL. Host: host.docker.internal, Port: 5432, Schema: , Login: postgres, Password: ***, extra: {}
+[2022-06-21 12:38:49,623] {base.py:70} INFO - Using connection to: id: PG_LOCAL. Host: host.docker.internal, Port: 5432, Schema: , Login: postgres, Password: ***, extra: {}
+[2022-06-21 12:38:49,756] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-21 12:38:49,772] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=todoist_load_to_pg, task_id=json_to_df, execution_date=20220621T123551, start_date=20220621T123849, end_date=20220621T123849
+[2022-06-21 12:38:49,818] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-21 12:38:49,853] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

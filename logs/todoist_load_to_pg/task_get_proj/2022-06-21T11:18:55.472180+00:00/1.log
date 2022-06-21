@@ -1,0 +1,137 @@
+[2022-06-21 11:18:59,306] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.task_get_proj manual__2022-06-21T11:18:55.472180+00:00 [queued]>
+[2022-06-21 11:18:59,323] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.task_get_proj manual__2022-06-21T11:18:55.472180+00:00 [queued]>
+[2022-06-21 11:18:59,324] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 11:18:59,325] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-21 11:18:59,327] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 11:18:59,553] {taskinstance.py:1264} INFO - Executing <Task(SimpleHttpOperator): task_get_proj> on 2022-06-21 11:18:55.472180+00:00
+[2022-06-21 11:18:59,558] {standard_task_runner.py:52} INFO - Started process 96 to run task
+[2022-06-21 11:18:59,563] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'task_get_proj', 'manual__2022-06-21T11:18:55.472180+00:00', '--job-id', '488', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmpf55qspru', '--error-file', '/tmp/tmpswan1z9e']
+[2022-06-21 11:18:59,565] {standard_task_runner.py:77} INFO - Job 488: Subtask task_get_proj
+[2022-06-21 11:18:59,636] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.task_get_proj manual__2022-06-21T11:18:55.472180+00:00 [running]> on host bd658c040114
+[2022-06-21 11:18:59,734] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=task_get_proj
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-21T11:18:55.472180+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-21T11:18:55.472180+00:00
+[2022-06-21 11:18:59,735] {http.py:104} INFO - Calling HTTP method
+[2022-06-21 11:18:59,749] {base.py:70} INFO - Using connection to: id: todo_conn. Host: https://api.todoist.com/rest/v1, Port: None, Schema: https, Login: , Password: ***, extra: {'authorization': '***'}
+[2022-06-21 11:18:59,752] {http.py:129} INFO - Sending 'GET' to url: https://api.todoist.com/rest/v1/projects
+[2022-06-21 11:19:00,117] {http.py:108} INFO - [
+	{
+		"id": 2266101084,
+		"color": 48,
+		"name": "Inbox",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"inbox_project": true,
+		"url": "https://todoist.com/showProject?id=2266101084"
+	},
+	{
+		"id": 2266102370,
+		"order": 1,
+		"color": 31,
+		"name": "Работа",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2266102370"
+	},
+	{
+		"id": 2281199547,
+		"order": 2,
+		"color": 46,
+		"name": "Проекты",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2281199547"
+	},
+	{
+		"id": 2276172551,
+		"order": 3,
+		"color": 41,
+		"name": "Финансы",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2276172551"
+	},
+	{
+		"id": 2275765087,
+		"order": 4,
+		"color": 33,
+		"name": "Организационно-бытовые задачи",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2275765087"
+	},
+	{
+		"id": 2275777802,
+		"order": 5,
+		"color": 36,
+		"name": "Красота и здоровье",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2275777802"
+	},
+	{
+		"id": 2275765259,
+		"order": 6,
+		"color": 37,
+		"name": "Личная эффективность",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2275765259"
+	},
+	{
+		"id": 2286290517,
+		"order": 7,
+		"color": 34,
+		"name": "Soft",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2286290517"
+	},
+	{
+		"id": 2276173208,
+		"order": 8,
+		"color": 30,
+		"name": "Семья",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2276173208"
+	},
+	{
+		"id": 2281200101,
+		"order": 9,
+		"color": 35,
+		"name": "Друзья",
+		"comment_count": 0,
+		"shared": false,
+		"favorite": false,
+		"sync_id": 0,
+		"url": "https://todoist.com/showProject?id=2281200101"
+	}
+]
+
+[2022-06-21 11:19:00,228] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=todoist_load_to_pg, task_id=task_get_proj, execution_date=20220621T111855, start_date=20220621T111859, end_date=20220621T111900
+[2022-06-21 11:19:00,779] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-21 11:19:00,862] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,91 @@
+[2022-06-21 11:47:55,617] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.get_start_date manual__2022-06-21T11:47:54.123821+00:00 [queued]>
+[2022-06-21 11:47:55,630] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.get_start_date manual__2022-06-21T11:47:54.123821+00:00 [queued]>
+[2022-06-21 11:47:55,631] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 11:47:55,632] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-21 11:47:55,633] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 11:47:55,648] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): get_start_date> on 2022-06-21 11:47:54.123821+00:00
+[2022-06-21 11:47:55,653] {standard_task_runner.py:52} INFO - Started process 118 to run task
+[2022-06-21 11:47:55,658] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'get_start_date', 'manual__2022-06-21T11:47:54.123821+00:00', '--job-id', '499', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmpibnjvdxy', '--error-file', '/tmp/tmpygodovjs']
+[2022-06-21 11:47:55,659] {standard_task_runner.py:77} INFO - Job 499: Subtask get_start_date
+[2022-06-21 11:47:55,723] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.get_start_date manual__2022-06-21T11:47:54.123821+00:00 [running]> on host bd658c040114
+[2022-06-21 11:47:55,785] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=get_start_date
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-21T11:47:54.123821+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-21T11:47:54.123821+00:00
+[2022-06-21 11:47:55,786] {python.py:175} INFO - Done. Returned value was: 2022-06-21 11:47:55.786689
+[2022-06-21 11:47:55,794] {xcom.py:447} ERROR - Could not serialize the XCom value into JSON. If you are using pickle instead of JSON for XCom, then you need to enable pickle support for XCom in your airflow config.
+[2022-06-21 11:47:55,796] {taskinstance.py:1718} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1334, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1460, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1519, in _execute_task
+    self.xcom_push(key=XCOM_RETURN_KEY, value=result)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 2145, in xcom_push
+    XCom.set(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/xcom.py", line 155, in set
+    value=cls.serialize_value(value),
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/xcom.py", line 445, in serialize_value
+    return json.dumps(value).encode('UTF-8')
+  File "/opt/bitnami/python/lib/python3.8/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type datetime is not JSON serializable
+[2022-06-21 11:47:55,810] {taskinstance.py:1272} INFO - Marking task as FAILED. dag_id=todoist_load_to_pg, task_id=get_start_date, execution_date=20220621T114754, start_date=20220621T114755, end_date=20220621T114755
+[2022-06-21 11:47:55,825] {standard_task_runner.py:89} ERROR - Failed to execute job 499 for task get_start_date
+Traceback (most recent call last):
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 298, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1334, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1460, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1519, in _execute_task
+    self.xcom_push(key=XCOM_RETURN_KEY, value=result)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 2145, in xcom_push
+    XCom.set(
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 67, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/xcom.py", line 155, in set
+    value=cls.serialize_value(value),
+  File "/opt/bitnami/airflow/venv/lib/python3.8/site-packages/airflow/models/xcom.py", line 445, in serialize_value
+    return json.dumps(value).encode('UTF-8')
+  File "/opt/bitnami/python/lib/python3.8/json/__init__.py", line 231, in dumps
+    return _default_encoder.encode(obj)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/opt/bitnami/python/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type datetime is not JSON serializable
+[2022-06-21 11:47:55,875] {local_task_job.py:154} INFO - Task exited with return code 1
+[2022-06-21 11:47:55,920] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

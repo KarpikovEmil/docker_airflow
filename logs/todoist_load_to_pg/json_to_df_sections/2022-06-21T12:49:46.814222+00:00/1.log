@@ -1,0 +1,61 @@
+[2022-06-21 12:49:54,440] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.json_to_df_sections manual__2022-06-21T12:49:46.814222+00:00 [queued]>
+[2022-06-21 12:49:54,476] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: todoist_load_to_pg.json_to_df_sections manual__2022-06-21T12:49:46.814222+00:00 [queued]>
+[2022-06-21 12:49:54,477] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 12:49:54,478] {taskinstance.py:1244} INFO - Starting attempt 1 of 1
+[2022-06-21 12:49:54,478] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-06-21 12:49:54,506] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): json_to_df_sections> on 2022-06-21 12:49:46.814222+00:00
+[2022-06-21 12:49:54,518] {standard_task_runner.py:52} INFO - Started process 230 to run task
+[2022-06-21 12:49:54,537] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'todoist_load_to_pg', 'json_to_df_sections', 'manual__2022-06-21T12:49:46.814222+00:00', '--job-id', '554', '--raw', '--subdir', 'DAGS_FOLDER/todoist_load_to_pg.py', '--cfg-path', '/tmp/tmphacb3amf', '--error-file', '/tmp/tmpkielhmcs']
+[2022-06-21 12:49:54,539] {standard_task_runner.py:77} INFO - Job 554: Subtask json_to_df_sections
+[2022-06-21 12:49:54,655] {logging_mixin.py:109} INFO - Running <TaskInstance: todoist_load_to_pg.json_to_df_sections manual__2022-06-21T12:49:46.814222+00:00 [running]> on host bd658c040114
+[2022-06-21 12:49:54,821] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=emil
+AIRFLOW_CTX_DAG_ID=todoist_load_to_pg
+AIRFLOW_CTX_TASK_ID=json_to_df_sections
+AIRFLOW_CTX_EXECUTION_DATE=2022-06-21T12:49:46.814222+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-06-21T12:49:46.814222+00:00
+[2022-06-21 12:49:54,889] {todoist_load_to_pg.py:57} INFO -           id  project_id  order                     name  \
+0   81771478  2266102370      1               Iot визуал   
+1   87562692  2266102370      2                 Iot data   
+2   87562499  2266102370      6    Обучение и тренировка   
+3   86338404  2266102370      7   Документирование борда   
+4   86338338  2266102370      8                  Мой Мтс   
+5   86338320  2266102370      9                   Скрипт   
+6   81773848  2275765087      4            Рабочее место   
+7   86339079  2275765087      5                   Уборка   
+8   81773819  2275765087      6                    Права   
+9   64821074  2275765259      1             Планирование   
+10  64907921  2275777802      1              Внешний вид   
+11  81774515  2275777802      3                 Здоровье   
+12  81774593  2275777802      4                   Tattoo   
+13  86339618  2275777802      5                    Спорт   
+14  81776343  2276173208      3  Финансовая свобода маме   
+15  81772874  2281199547      1                  Подкаст   
+16  81776082  2286290517      2               Английский   
+
+                      dag_run  
+0  2022-06-21 12:49:54.868153  
+1  2022-06-21 12:49:54.868153  
+2  2022-06-21 12:49:54.868153  
+3  2022-06-21 12:49:54.868153  
+4  2022-06-21 12:49:54.868153  
+5  2022-06-21 12:49:54.868153  
+6  2022-06-21 12:49:54.868153  
+7  2022-06-21 12:49:54.868153  
+8  2022-06-21 12:49:54.868153  
+9  2022-06-21 12:49:54.868153  
+10 2022-06-21 12:49:54.868153  
+11 2022-06-21 12:49:54.868153  
+12 2022-06-21 12:49:54.868153  
+13 2022-06-21 12:49:54.868153  
+14 2022-06-21 12:49:54.868153  
+15 2022-06-21 12:49:54.868153  
+16 2022-06-21 12:49:54.868153  
+[2022-06-21 12:49:54,918] {base.py:70} INFO - Using connection to: id: PG_LOCAL. Host: host.docker.internal, Port: 5432, Schema: , Login: postgres, Password: ***, extra: {}
+[2022-06-21 12:49:54,950] {base.py:70} INFO - Using connection to: id: PG_LOCAL. Host: host.docker.internal, Port: 5432, Schema: , Login: postgres, Password: ***, extra: {}
+[2022-06-21 12:49:55,071] {python.py:175} INFO - Done. Returned value was: None
+[2022-06-21 12:49:55,104] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=todoist_load_to_pg, task_id=json_to_df_sections, execution_date=20220621T124946, start_date=20220621T124954, end_date=20220621T124955
+[2022-06-21 12:49:55,159] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-06-21 12:49:55,254] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
